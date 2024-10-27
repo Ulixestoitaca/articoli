@@ -52,6 +52,9 @@ const config = {
         src: 'https://www.impresaitalia.info/public_resources/logo.jpg',
         href: "pathname://",
       },
+
+	// Aggiungo qui le macrocategorie poi --> sidebar.js
+
       items: [
         {
           type: 'docSidebar',
@@ -65,6 +68,9 @@ const config = {
           position: 'left',
           label: 'Informatica',
         },
+
+	//******************************************************
+
         /*{ to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
