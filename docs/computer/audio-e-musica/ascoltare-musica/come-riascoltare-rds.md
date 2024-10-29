@@ -1,4 +1,6 @@
-## Riascoltare RDS: tutte le soluzioni per non perderti nemmeno un minuto del tuo programma preferito
+# Riascoltare RDS
+
+## tutte le soluzioni per non perderti nemmeno un minuto del tuo programma preferito
 
 RDS, acronimo di Radio Dimensione Suono, è una delle emittenti radiofoniche più amate in Italia. Con la sua programmazione variegata, un mix accattivante di musica italiana e internazionale e la presenza di speaker di talento, RDS accompagna le giornate di milioni di ascoltatori. Ma cosa fare se ti sei perso la tua trasmissione preferita o vuoi riascoltare un momento particolarmente interessante?  Fortunatamente, nell'era digitale, le opzioni per riascoltare RDS sono molteplici e facilmente accessibili.
 
@@ -79,3 +81,5 @@ Esistono anche altre app per il riconoscimento musicale, come SoundHound e Music
 ### Conclusioni
 
 Come hai visto, le opzioni per riascoltare RDS e identificare le canzoni trasmesse sono numerose e facilmente accessibili.  Che tu preferisca utilizzare i podcast, l'app ufficiale di RDS o altri strumenti, non dovrai più perderti nemmeno un minuto del tuo programma preferito o una canzone che ti ha colpito.  Buon ascolto!
+
+

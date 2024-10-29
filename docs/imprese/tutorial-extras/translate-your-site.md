@@ -1,4 +1,8 @@
 ---
+title: "translate your site"
+---
+
+---
 sidebar_position: 2
 ---
 
