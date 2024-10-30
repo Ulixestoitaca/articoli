@@ -1,7 +1,12 @@
 [
   {
+    "title": "migliori siti dedicati alla musica",
+    "text": "Migliori canzoni per video La scelta della colonna sonora per un video può fare una...",
+    "link": "docs/informatica/audio-e-musica/altro/migliori-siti-dedicati-alla-musica"
+  },
+  {
     "title": "come riattivare il microfono",
-    "text": "Come riattivare il microfono Se hai riscontrato problemi con il microfono, potrebbe essere disabilitato o...",
+    "text": "Come riattivare il microfono Hai accidentalmente disattivato il microfono sul tuo dispositivo, e ora, durante...",
     "link": "docs/informatica/audio-e-musica/altro/come-riattivare-il-microfono"
   },
   {
@@ -23,10 +28,5 @@
     "title": "programmi per gestire musica",
     "text": "Programmi per Gestire la Musica Hai finalmente deciso di mettere in ordine la tua libreria...",
     "link": "docs/informatica/audio-e-musica/ascoltare-musica/programmi-per-gestire-musica"
-  },
-  {
-    "title": "come trasferire playlist da spotify a apple music",
-    "text": "Migrare la tua musica: come trasferire playlist da Spotify ad Apple Music Il mondo della...",
-    "link": "docs/informatica/audio-e-musica/ascoltare-musica/come-trasferire-playlist-da-spotify-a-apple-music"
   }
 ]
