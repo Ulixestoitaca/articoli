@@ -10,7 +10,7 @@ Per chi pubblica video su piattaforme online, è essenziale scegliere brani che 
 
 ### 1. YouTube
 
-![Raccolta audio YouTube](/guide-img/dcbcecdf.jpg)
+![Raccolta audio YouTube](/guide-img/output/dcbcecdf.jpg)
 
 Uno dei più conosciuti è **YouTube**, che non è solo una piattaforma di condivisione video, ma offre anche una vasta libreria di **musica royalty free** accessibile tramite **YouTube Studio**, l’area dedicata alla gestione dei canali per i creatori di contenuti. Questa raccolta include migliaia di brani ed effetti sonori, tutti scaricabili e utilizzabili come colonna sonora dei tuoi video. La **Raccolta audio** di YouTube è ideale per chi desidera trovare facilmente canzoni gratuite e senza copyright.
 
@@ -20,7 +20,7 @@ YouTube Studio è accessibile anche tramite app per dispositivi mobili, disponib
 
 ### 2. Jamendo
 
-![Musica per video Jamendo](/guide-img/ca9dd1e5.jpg)
+![Musica per video Jamendo](/guide-img/output/ca9dd1e5.jpg)
 
 **Jamendo** è una piattaforma dedicata alla musica indipendente, che offre un’ampia selezione di **brani royalty free** ideali per accompagnare progetti video. Questo servizio è molto popolare tra i creatori di contenuti, i film maker e le aziende in cerca di musica da utilizzare per progetti audiovisivi senza preoccuparsi dei diritti d'autore.
 
@@ -30,7 +30,7 @@ Jamendo è accessibile anche tramite un'app disponibile per [iOS](https://apps.a
 
 ### 3. Altri siti per trovare canzoni per video
 
-![Musica Artist.io](/guide-img/a915c865.jpg)
+![Musica Artist.io](/guide-img/output/a915c865.jpg)
 
 Oltre a YouTube e Jamendo, esistono altre piattaforme dove è possibile trovare **musica royalty free** per i tuoi video. Ecco una breve panoramica delle migliori opzioni:
 
@@ -40,7 +40,7 @@ Oltre a YouTube e Jamendo, esistono altre piattaforme dove è possibile trovare 
 
 ## Migliori canzoni per video matrimonio
 
-![Video matrimonio](/guide-img/f5693a35.jpg)
+![Video matrimonio](/guide-img/output/f5693a35.jpg)
 
 Un video di matrimonio è uno dei progetti più significativi e carichi di emozione, e la musica gioca un ruolo essenziale nel rendere memorabile ogni scena. Se stai preparando un video di matrimonio e desideri che risulti emozionante e coinvolgente, ecco cinque brani popolari e ben adatti a questa occasione:
 
@@ -54,7 +54,7 @@ Questi brani sono perfetti per i video a uso privato, come la condivisione con f
 
 ## Migliori canzoni per video di diciottesimo compleanno
 
-![Compleanno 18 anni](/guide-img/f6ffe250.jpg)
+![Compleanno 18 anni](/guide-img/output/f6ffe250.jpg)
 
 Festeggiare il diciottesimo compleanno è un evento significativo, e se stai creando un video per ricordare questo momento speciale, è importante scegliere brani che catturino l’atmosfera di questa occasione unica. Di seguito, ti proponiamo cinque canzoni perfette per un video di compleanno per i 18 anni:
 
@@ -68,7 +68,7 @@ Per video destinati alla condivisione privata, queste canzoni sono ideali. Se in
 
 ## Migliori canzoni per video vacanze
 
-![Video vacanze](/guide-img/b427866.jpg)
+![Video vacanze](/guide-img/output/b427866.jpg)
 
 Le vacanze sono momenti indimenticabili, e se stai montando un video delle tue avventure, la scelta della colonna sonora è fondamentale per trasmettere l’atmosfera e il divertimento del viaggio. Di seguito, alcune canzoni perfette per un video vacanziero:
 
@@ -82,7 +82,7 @@ Se vuoi pubblicare il video online, è meglio ricorrere a piattaforme royalty fr
 
 ## Migliori canzoni per video di migliori amiche
 
-![Video migliori amiche](/guide-img/db714574.jpg)
+![Video migliori amiche](/guide-img/output/db714574.jpg)
 
 Realizzare un video per celebrare l'amicizia con la tua migliore amica è un modo speciale per custodire ricordi preziosi. Ecco alcune canzoni perfette per accompagnare i momenti più belli di un video dedicato alle migliori amiche:
 
@@ -96,7 +96,7 @@ Per video destinati ai social, come YouTube o Facebook, è consigliabile utilizz
 
 ## Migliori canzoni per reel di viaggio
 
-![Reel di viaggio](/guide-img/cbb87ef4.jpg)
+![Reel di viaggio](/guide-img/output/cbb87ef4.jpg)
 
 Se stai cercando **canzoni perfette per un reel di viaggi** su Instagram, sappi che puoi scegliere la musica direttamente dalla piattaforma. Dopo aver caricato i contenuti del tuo reel, fai tap sull’**icona della nota musicale** per consultare i brani suggeriti nella sezione **Per te**. Hai anche la possibilità di cercare una canzone specifica digitando parole chiave come “summer”, “adventure” o il nome della località che hai visitato.
 

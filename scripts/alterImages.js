@@ -22,7 +22,7 @@ function randomInt(min, max) {
 
 // Funzione per elaborare l'immagine con conversione, modifica e salvataggio
 async function processImage(filePath) {
-    const outputPath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '_mod.jpg');
+    const outputPath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '.jpg');
 
     // Controllo esistenza output finale
     try {
