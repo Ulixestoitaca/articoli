@@ -10,7 +10,7 @@ Se hai disattivato il microfono sul computer, puoi facilmente riattivarlo tramit
 
 ### Windows 11
 
-![microfono windows 11](https://www.impresaitalia.info/articoli/static/guide-img/ac0f7e82.jpeg)
+![microfono windows 11](https://www.impresaitalia.info/articoli/static/guide-img/ac0f7e82.jpg)
 
 Se stai utilizzando un computer con Windows 11 e vuoi riattivare il microfono, segui questi passaggi:
 
@@ -25,7 +25,7 @@ Per verificare che il microfono sia funzionante, clicca su **Inizia test** e pro
 
 ### Windows 10
 
-![microfono windows 10](https://www.impresaitalia.info/articoli/static/guide-img/28b6e101.jpeg)
+![microfono windows 10](https://www.impresaitalia.info/articoli/static/guide-img/28b6e101.jpg)
 
 Per riattivare il microfono su Windows 10:
 
@@ -37,7 +37,7 @@ Per testare il microfono, assicurati che la barra accanto a **Prova il microfono
 
 ### macOS
 
-![microfono mac](https://www.impresaitalia.info/articoli/static/guide-img/eebec5f1.jpeg)
+![microfono mac](https://www.impresaitalia.info/articoli/static/guide-img/eebec5f1.jpg)
 
 Se utilizzi un Mac e riscontri problemi con il microfono:
 
@@ -53,7 +53,7 @@ Se hai disattivato il microfono in un'applicazione, sia essa installata su PC o 
 
 ### Come riattivare il microfono su Zoom
 
-![microfono zoom](https://www.impresaitalia.info/articoli/static/guide-img/71f114c8.jpeg)
+![microfono zoom](https://www.impresaitalia.info/articoli/static/guide-img/71f114c8.jpg)
 
 Per abilitare il microfono su Zoom su Windows:
 
@@ -66,7 +66,7 @@ Su **Android** e **iOS**, puoi abilitare il microfono andando su **Impostazioni 
 
 ### Come riattivare il microfono su Teams
 
-![microfono teams](https://www.impresaitalia.info/articoli/static/guide-img/4f6d0f10.jpeg)
+![microfono teams](https://www.impresaitalia.info/articoli/static/guide-img/4f6d0f10.jpg)
 
 Se utilizzi Teams e il microfono non funziona:
 
@@ -77,7 +77,7 @@ Su **Mac**, la procedura è identica, mentre su **Android** e **iOS** segui le i
 
 ### Come riattivare il microfono su Meet
 
-![meet](https://www.impresaitalia.info/articoli/static/guide-img/77302c7c.jpeg)
+![meet](https://www.impresaitalia.info/articoli/static/guide-img/77302c7c.jpg)
 
 Se su Google Meet il microfono risulta disattivato, controlla le autorizzazioni del browser:
 
@@ -88,7 +88,7 @@ Su **Android** e **iOS**, abilita il microfono nelle impostazioni dell'app Meet,
 
 ### Come riattivare il microfono su WhatsApp
 
-![microfono wa](https://www.impresaitalia.info/articoli/static/guide-img/760164cf.jpeg)
+![microfono wa](https://www.impresaitalia.info/articoli/static/guide-img/760164cf.jpg)
 
 Su WhatsApp, per riattivare il microfono:
 
@@ -99,7 +99,7 @@ Per **WhatsApp Web**, durante l’accesso dal browser, consenti l’uso del micr
 
 ### Come riattivare il microfono su Discord
 
-![discord](https://www.impresaitalia.info/articoli/static/guide-img/dd19d17b.jpeg)
+![discord](https://www.impresaitalia.info/articoli/static/guide-img/dd19d17b.jpg)
 
 Per attivare il microfono su Discord:
 
