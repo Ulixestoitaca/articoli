@@ -59,13 +59,13 @@ const config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'prima',
+          sidebarId: 'imprese',
           position: 'left',
           label: 'Imprese',
         },
         {
           type: 'docSidebar', // Cambiato da 'informaticaSidebar' a 'docSidebar'
-          sidebarId: 'seconda', // Assicurati che questo ID corrisponda alla sidebar che hai definito
+          sidebarId: 'informatica', // Assicurati che questo ID corrisponda alla sidebar che hai definito
           position: 'left',
           label: 'Informatica',
         },
