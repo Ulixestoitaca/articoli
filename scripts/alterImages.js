@@ -16,48 +16,59 @@ async function ensureOutputDir() {
     }
 }
 
-// Converte l'immagine se è in formato diverso da JPG
-async function ensureJpgFormat(filePath) {
-    const image = await Jimp.read(filePath);
-    const mime = image.getMIME().toLowerCase();
-
-    if (mime !== Jimp.MIME_JPEG) {
-        const newFilePath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '.jpg');
-        await image.quality(85).writeAsync(newFilePath);
-        console.log(`Convertito ${filePath} in ${newFilePath}`);
-        return newFilePath;
-    }
-    return filePath;
+function randomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-// Funzione per applicare filtri di colore e altre modifiche di hash visivo
-async function processImage(imagePath, outputPath) {
+// Funzione per elaborare l'immagine con conversione, modifica e salvataggio
+async function processImage(filePath) {
+    const outputPath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '_mod.jpg');
+
+    // Controllo esistenza output finale
     try {
-        // Controllo se il file esiste già
-        try {
-            await fs.access(outputPath);
-            console.log(`File già esistente, saltato: ${outputPath}`);
-            return; // Esce dalla funzione se l'immagine esiste già
-        } catch {
-            // Il file non esiste, continua con l'elaborazione
+        await fs.access(outputPath);
+        console.log(`File già esistente, saltato: ${outputPath}`);
+        return;
+    } catch {
+        // Il file non esiste, procediamo con l'elaborazione
+    }
+
+    try {
+        let image = await Jimp.read(filePath);
+
+        // Se non è JPG, convertilo direttamente
+        if (image.getMIME().toLowerCase() !== Jimp.MIME_JPEG) {
+            image = await image.quality(85);
         }
 
-        let image = await Jimp.read(imagePath);
+        // Esegui un crop fisso sui bordi
+        const cropLeft = 20;
+        const cropTop = 20;
+        const cropWidth = image.bitmap.width - 40;
+        const cropHeight = image.bitmap.height - 40;
+        //image.crop(cropLeft, cropTop, cropWidth, cropHeight);
 
-        // Modifica dei colori usando luminosità e contrasto
+        // Modifica dei colori usando luminosità, contrasto e tonalità
         const brightnessAmount = -0.2; // Luminosità ridotta per evitare bianchi puri
         const contrastAmount = 0.1;    // Contrasto per rendere i colori più distinti
         const hueRotation = 90;        // Rotazione di tonalità per cambiare il colore di sfondo
+		const saturationAmount = 0.5; // Saturazione
 
         image
             .brightness(brightnessAmount) // Luminosità fissa
             .contrast(contrastAmount)      // Contrasto fisso
             .color([{ apply: 'hue', params: [hueRotation] }]); // Modifica della tonalità
 
+        image
+            .contrast(contrastAmount)
+            .color([{ apply: 'saturate', params: [saturationAmount * 100] }])
+            .color([{ apply: 'hue', params: [hueRotation] }]);
+
         await image.writeAsync(outputPath);
-        console.log(`Immagine salvata in: ${outputPath}`);
+        console.log(`Immagine modificata salvata in: ${outputPath}`);
+
     } catch (err) {
-        console.error(`Errore durante l'elaborazione di ${imagePath}:`, err);
+        console.error(`Errore durante l'elaborazione di ${filePath}:`, err);
     }
 }
 
@@ -67,14 +78,12 @@ async function processAllImages() {
     try {
         const files = await fs.readdir(inputDir);
         console.log(`Trovati ${files.length} file nella directory ${inputDir}.`);
-        
+
         for (const file of files) {
             const filePath = path.join(inputDir, file);
-            const outputPath = path.join(outputDir, file);
 
             if (file !== "output") {
-                const convertedPath = await ensureJpgFormat(filePath);
-                await processImage(convertedPath, outputPath);
+                await processImage(filePath); // Elaborazione diretta
             } else {
                 console.log(`File ignorato (è una cartella): ${file}`);
             }
