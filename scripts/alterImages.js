@@ -16,11 +16,7 @@ async function ensureOutputDir() {
     }
 }
 
-function randomInt(min, max) {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
-}
-
-// Funzione per elaborare l'immagine con conversione, modifica e salvataggio
+// Funzione per elaborare l'immagine con inversione dei colori e salvataggio
 async function processImage(filePath) {
     const outputPath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '.jpg');
 
@@ -41,31 +37,12 @@ async function processImage(filePath) {
             image = await image.quality(85);
         }
 
-        // Esegui un crop fisso sui bordi
-        const cropLeft = 20;
-        const cropTop = 20;
-        const cropWidth = image.bitmap.width - 40;
-        const cropHeight = image.bitmap.height - 40;
-        //image.crop(cropLeft, cropTop, cropWidth, cropHeight);
+        // Inversione dei colori
+        image.invert();
 
-        // Modifica dei colori usando luminosità, contrasto e tonalità
-        const brightnessAmount = -0.2; // Luminosità ridotta per evitare bianchi puri
-        const contrastAmount = 0.1;    // Contrasto per rendere i colori più distinti
-        const hueRotation = 90;        // Rotazione di tonalità per cambiare il colore di sfondo
-		const saturationAmount = 0.5; // Saturazione
-
-        image
-            .brightness(brightnessAmount) // Luminosità fissa
-            .contrast(contrastAmount)      // Contrasto fisso
-            .color([{ apply: 'hue', params: [hueRotation] }]); // Modifica della tonalità
-
-        image
-            .contrast(contrastAmount)
-            .color([{ apply: 'saturate', params: [saturationAmount * 100] }])
-            .color([{ apply: 'hue', params: [hueRotation] }]);
-
+        // Salva l'immagine invertita
         await image.writeAsync(outputPath);
-        console.log(`Immagine modificata salvata in: ${outputPath}`);
+        console.log(`Immagine invertita salvata in: ${outputPath}`);
 
     } catch (err) {
         console.error(`Errore durante l'elaborazione di ${filePath}:`, err);
