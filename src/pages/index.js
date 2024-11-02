@@ -21,11 +21,11 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
+          <p
             className="button button--secondary button--lg"
             to="/docs/intro">
             Mini corsi da 5min ⏱️
-          </Link>
+          </p>
         </div>
       </div>
     </header>
