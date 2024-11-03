@@ -49,7 +49,7 @@ async function processImage(filePath) {
     // Controllo esistenza output finale
     try {
         await fs.access(outputPath);
-        console.log(`File già esistente, saltato: ${outputPath}`);
+        //console.log(`File già esistente, saltato: ${outputPath}`);
         return;
     } catch {
         // Il file non esiste, procediamo con l'elaborazione
@@ -85,7 +85,7 @@ async function processAllImages() {
                 const convertedPath = await ensureJpgFormat(filePath);
                 await processImage(convertedPath);
             } else {
-                console.log(`File ignorato (è una cartella): ${file}`);
+                //console.log(`File ignorato (è una cartella): ${file}`);
             }
         }
     } catch (err) {
