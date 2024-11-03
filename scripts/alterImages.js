@@ -1,8 +1,9 @@
 import Jimp from 'jimp';
 import path from 'path';
 import fs from 'fs/promises';
+import chokidar from 'chokidar';
+import webp from 'webp-converter';
 
-// Percorsi delle cartelle
 const inputDir = 'static/guide-img';
 const outputDir = 'static/guide-img/output';
 
@@ -16,7 +17,32 @@ async function ensureOutputDir() {
     }
 }
 
-// Funzione per elaborare l'immagine con inversione dei colori e salvataggio
+// Converte l'immagine se è in formato diverso da JPG o se è un WebP camuffato
+async function ensureJpgFormat(filePath) {
+    let newFilePath = filePath;
+
+    try {
+        const image = await Jimp.read(filePath);
+        const mime = image.getMIME().toLowerCase();
+
+        if (mime !== Jimp.MIME_JPEG) {
+            newFilePath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '.jpg');
+            await image.quality(85).writeAsync(newFilePath);
+            console.log(`Convertito ${filePath} in ${newFilePath}`);
+        }
+    } catch (err) {
+        if (filePath.endsWith('.jpg')) {
+            console.log(`Il file ${filePath} è un WebP camuffato. Conversione in JPG.`);
+            newFilePath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '.jpg');
+            await webp.dwebp(filePath, newFilePath, "-o");
+        } else {
+            console.error(`Errore durante la lettura/conversione di ${filePath}:`, err);
+        }
+    }
+    return newFilePath;
+}
+
+// Elabora l'immagine invertendo i colori e la salva in output
 async function processImage(filePath) {
     const outputPath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '.jpg');
 
@@ -37,13 +63,10 @@ async function processImage(filePath) {
             image = await image.quality(85);
         }
 
-        // Inversione dei colori
-        image.invert();
+        image.invert();  // Esempio di trasformazione
 
-        // Salva l'immagine invertita
         await image.writeAsync(outputPath);
         console.log(`Immagine invertita salvata in: ${outputPath}`);
-
     } catch (err) {
         console.error(`Errore durante l'elaborazione di ${filePath}:`, err);
     }
@@ -58,9 +81,9 @@ async function processAllImages() {
 
         for (const file of files) {
             const filePath = path.join(inputDir, file);
-
             if (file !== "output") {
-                await processImage(filePath); // Elaborazione diretta
+                const convertedPath = await ensureJpgFormat(filePath);
+                await processImage(convertedPath);
             } else {
                 console.log(`File ignorato (è una cartella): ${file}`);
             }
@@ -70,4 +93,11 @@ async function processAllImages() {
     }
 }
 
+// Esegue il controllo su tutte le immagini esistenti
 processAllImages();
+
+// Monitoraggio dei nuovi file con Chokidar
+chokidar.watch(inputDir, { ignoreInitial: true }).on('add', (filePath) => {
+    console.log(`Nuova immagine rilevata: ${filePath}`);
+    processImage(filePath); // Processa la nuova immagine aggiunta
+});

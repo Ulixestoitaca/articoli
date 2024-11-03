@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "prestart": "node scripts/generateRecentDocsData.js",
+    "prestart": "node scripts/generateRecentDocsData.js && node scripts/alterImages.js",
     "prebuild": "node scripts/generateRecentDocsData.js",
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -20,6 +20,7 @@
     "@docusaurus/plugin-content-docs": "^3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
     "@mdx-js/react": "^3.0.0",
+    "chokidar": "^4.0.1",
     "clsx": "^2.0.0",
     "image-hash": "^5.3.2",
     "jimp": "^0.16.1",
