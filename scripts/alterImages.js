@@ -69,7 +69,7 @@ async function processImage(filePath) {
 
 // Elabora tutte le immagini nella directory
 async function processAllImages() {
-    await ensureOutputDir();
+    //await ensureOutputDir();
     try {
         const files = await fs.readdir(inputDir);
         console.log(`Trovati ${files.length} file nella directory ${inputDir}.`);
