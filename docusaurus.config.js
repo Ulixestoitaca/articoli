@@ -8,7 +8,7 @@ const config = {
   tagline: 'Ogni problema ha una soluzione',
   favicon: 'img/favicon.ico',
   url: 'https://www.impresaitalia.info',
-  baseUrl: '/articoli/build/',
+  baseUrl: '/articoli/', // Rimuove '/build/' dalla base dell'URL
   organizationName: 'impresaitalia',
   projectName: 'articoli',
   onBrokenLinks: 'warn',
@@ -34,6 +34,8 @@ const config = {
       'classic',
       {
         docs: {
+          path: 'docs', // Mantieni la cartella 'docs'
+          routeBasePath: '/', // Serve i documenti alla root di `baseUrl`, senza includere 'docs' nell'URL
           sidebarPath: './sidebars.js',
           editUrl: undefined,
         },

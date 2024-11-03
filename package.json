@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "prestart": "node scripts/generateRecentDocsData.js && start /B node scripts/alterImages.js",
+	"prestart": "node scripts/generateRecentDocsData.js && node scripts/alterImages.js && node scripts/addSlug.js",
     "prebuild": "node scripts/generateRecentDocsData.js",
     "start": "docusaurus start",
     "build": "docusaurus build",

@@ -1,4 +1,6 @@
-
+---
+slug: /principali-siti-per-karaoke
+---
 # Guida Completa ai Migliori Siti per Karaoke
 
 Stai organizzando una festa con amici o vuoi semplicemente divertirti a cantare le tue canzoni preferite? 
@@ -58,11 +60,6 @@ tra migliaia di brani, molti dei quali gratuiti. Le versioni a pagamento includo
 
 ### Altri Siti di Riferimento
 - **SongService**: offre basi MIDI e MP3 di molti brani italiani e internazionali.
-- **Sing2Music**: basi per cover acustiche realizzate da musicisti professionisti.
-
-
----
-
-Concludiamo questa guida sperando che i consigli forniti ti siano stati utili per trovare la soluzione di karaoke 
+- **Sing2Music**: basi per cover acustiche realizzate da musicisti professionisti.Concludiamo questa guida sperando che i consigli forniti ti siano stati utili per trovare la soluzione di karaoke 
 più adatta alle tue esigenze. Sperimenta i diversi servizi, divertiti con amici e goditi la musica in modo 
 semplice e gratuito!

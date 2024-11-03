@@ -1,12 +1,8 @@
 ---
+slug: /agenzie-viaggi-bologna
+---
 title: "agenzie viaggi bologna"
----
-
----
-sidebar_position: 1
----
-
-# Agenzie di Viaggi a Bologna
+sidebar_position: 1# Agenzie di Viaggi a Bologna
 
 Bologna, una città ricca di storia, arte e cultura, è anche un punto di partenza ideale per viaggiatori in cerca di avventure sia in Italia che all'estero. Le **agenzie di viaggi** svolgono un ruolo cruciale nell'assistere i viaggiatori a pianificare viaggi su misura, che si tratti di vacanze rilassanti, tour culturali, o viaggi d'affari.
 

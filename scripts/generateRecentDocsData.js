@@ -1,10 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 
-// Funzione per estrarre il contenuto pulito del testo dai file markdown
+// Funzione per estrarre il contenuto pulito del testo dai file markdown, escludendo il frontmatter
 function getDocText(docPath) {
   try {
-    const content = fs.readFileSync(docPath, 'utf-8');
+    let content = fs.readFileSync(docPath, 'utf-8');
+
+    // Rimuovi il frontmatter (ad esempio, slug e altre metainformazioni)
+    if (content.startsWith('---')) {
+      content = content.slice(content.indexOf('---', 3) + 3); // Taglia tutto fino al secondo '---'
+    }
 
     // Rimuovi le formattazioni Markdown
     const cleanedContent = content
@@ -68,8 +73,9 @@ function generateRecentDocsData() {
       .trim(); // Rimuove eventuali spazi bianchi residui
     const text = getDocText(filePath);
 
-    // Creazione del link: rimuovere l'estensione .md
-    const link = `docs/${path.relative(docsPath, filePath).replace(/\\/g, '/').replace(/\.md$/, '')}`; // Correggi il percorso e rimuovi .md
+    // Creazione del link usando solo il nome del file
+    const fileName = path.basename(filePath, '.md'); // Ottieni solo il nome del file senza estensione
+    const link = `/articoli/${fileName}/`; // Usa solo 'articoli' e il nome del file
 
     recentDocsData.push({ title, text, link });
   }
@@ -84,5 +90,6 @@ function generateRecentDocsData() {
   const outputPath = path.join(outputDir, 'recentDocsData.json');
   fs.writeFileSync(outputPath, JSON.stringify(recentDocsData, null, 2));
 }
+
 
 generateRecentDocsData();

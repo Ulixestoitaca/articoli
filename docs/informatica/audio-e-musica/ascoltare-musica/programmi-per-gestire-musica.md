@@ -1,3 +1,6 @@
+---
+slug: /programmi-per-gestire-musica
+---
 # Programmi per Gestire la Musica
 
 Hai finalmente deciso di mettere in ordine la tua libreria musicale digitale per ascoltare facilmente le tue canzoni preferite, senza più dover navigare tra innumerevoli cartelle sparse nel tuo computer? Se sì, sei nel posto giusto! Di seguito ti guiderò nell’uso di alcuni programmi utili per la gestione della musica, molti dei quali già inclusi nei principali sistemi operativi desktop. Inoltre, ti mostrerò anche alcune app mobili per gestire i brani e ti spiegherò come organizzare la musica presente sugli iPod, i lettori musicali di Apple.
