@@ -28,3 +28,14 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Mantieni il grassetto per il menu principale e per il secondo livello */
+.navbar__link, 
+.menu__list-item > .menu__link {
+  font-weight: bold;
+}
+
+/* Rimuovi il grassetto solo per i link del terzo livello */
+.menu__list-item .menu__list-item .menu__list-item > .menu__link {
+  font-weight: normal;
+}
