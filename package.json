@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-	"prestart": "node scripts/generateRecentDocsData.js && node scripts/alterImages.js && node scripts/addSlug.js",
+    "prestart": "node scripts/generateRecentDocsData.js && node scripts/alterImages.js && node scripts/addSlug.js",
     "prebuild": "node scripts/generateRecentDocsData.js",
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -20,16 +20,21 @@
     "@docusaurus/plugin-content-docs": "^3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
     "@mdx-js/react": "^3.0.0",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
     "chokidar": "^4.0.1",
     "clsx": "^2.0.0",
     "image-hash": "^5.3.2",
     "jimp": "^0.16.1",
     "prism-react-renderer": "^2.3.0",
+    "puppeteer": "^23.7.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "seedrandom": "^3.0.5",
     "sharp": "^0.33.5",
-    "webp-converter": "^2.3.3"
+    "webp-converter": "^2.3.3",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.34"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.5.2",

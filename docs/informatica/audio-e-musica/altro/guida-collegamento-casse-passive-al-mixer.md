@@ -1,7 +1,5 @@
 ---
-
 slug: /guida-collegamento-casse-passive-al-mixer
-
 ---
 
 # Guida Completa per Collegare le Casse Passive a un Mixer: Configurazione e Connessioni
