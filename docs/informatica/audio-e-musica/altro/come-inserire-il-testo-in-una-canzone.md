@@ -15,7 +15,7 @@ Esistono molte piattaforme che offrono **testi delle canzoni sincronizzati** con
 
 Una delle risorse più popolari per trovare e visualizzare i testi è **Musixmatch**, il più grande archivio di testi di canzoni, grazie alla community che collabora per aggiornare e arricchire il database. Musixmatch è compatibile con diverse app musicali, come [Spotify](https://www.aranzulla.it/come-funziona-spotify-468261.html), [Apple Music](https://www.aranzulla.it/come-funziona-apple-music-1037560.html) e [Instagram](https://www.aranzulla.it/come-usare-instagram-28531.html).
 
-![Musixmatch](/guide-img/d1394efd.jpg)
+![Musixmatch](/guide-img/output/d1394efd.jpg)
 
 **Musixmatch online**: Puoi accedere a Musixmatch direttamente dal [sito ufficiale](https://www.musixmatch.com/it/scopri) e cercare il titolo della canzone o il nome dell’artista per visualizzare il testo. È possibile copiare le parole della canzone, utile per karaoke e progetti multimediali personali.
 
@@ -27,7 +27,7 @@ Una delle risorse più popolari per trovare e visualizzare i testi è **Musixmat
 
 Ecco alcune alternative a Musixmatch, altrettanto valide per chi desidera leggere o sincronizzare i testi con l’audio.
 
-![Genius](/guide-img/f67a9dce.jpg)
+![Genius](/guide-img/output/f67a9dce.jpg)
 
 - **[Genius](https://genius.com/)**: Si tratta di una piattaforma che offre una libreria di testi vastissima, accessibile anche tramite app Android e iOS/iPadOS. Genius permette di vedere i testi sincronizzati e persino di consultare video in modalità Picture-in-Picture su YouTube.
 - **[AZLyrics](https://www.azlyrics.com/)**: Un archivio di testi semplice e intuitivo, perfetto per copiare i testi e usarli nei tuoi progetti personali o su app per il karaoke.
@@ -37,7 +37,7 @@ Ecco alcune alternative a Musixmatch, altrettanto valide per chi desidera legger
 
 Se ti interessa sapere **come visualizzare i testi delle canzoni su Spotify**, questa sezione fa al caso tuo. Spotify ha introdotto una funzionalità per vedere i testi sincronizzati, disponibile sia su dispositivi mobili sia su computer.
 
-![Testo Spotify](/guide-img/bde2ae2b.jpg)
+![Testo Spotify](/guide-img/output/bde2ae2b.jpg)
 
 **Da mobile**: Apri l’app Spotify su [Android](https://play.google.com/store/apps/details?id=com.spotify.music) o [iOS/iPadOS](https://apps.apple.com/it/app/spotify-musica-e-podcast/id324684580). Cerca la canzone, avviane la riproduzione e scorri verso il basso per vedere la sezione **Testo**, dove i versi appaiono sincronizzati con l’audio.
 
@@ -51,7 +51,7 @@ Se vuoi integrare le parole di una canzone nei tuoi video, esistono diverse app 
 
 **CapCut** è un’app di video editing versatile, disponibile su **Android** e **iOS/iPadOS**, che consente di aggiungere il testo delle canzoni ai video in modo semplice.
 
-![CapCut](/guide-img/1b447276.jpg)
+![CapCut](/guide-img/output/1b447276.jpg)
 
 1. **App mobile**: Dopo aver caricato il video su CapCut, scorri fino al punto desiderato e clicca su **Testo**. Puoi inserire le parole manualmente o usare la funzione **Sottotitoli automatici** per sincronizzare il testo con l’audio.
 2. **Web app e versione desktop**: CapCut è disponibile anche come [Web app](https://www.capcut.com/editor) e client per desktop, scaricabile dal [sito ufficiale](https://www.capcut.com/my-edit). Per l’inserimento dei testi, usa il menu **Testo** a sinistra e seleziona il tipo di testo o sottotitolo che preferisci.
@@ -62,7 +62,7 @@ Oltre al testo manuale, CapCut include una funzione di **Sottotitoli automatici*
 
 Su **YouTube**, puoi visualizzare i testi delle canzoni tramite i sottotitoli, sia su mobile che su desktop.
 
-![YouTube Testo](/guide-img/13c65089.jpg)
+![YouTube Testo](/guide-img/output/13c65089.jpg)
 
 **Da computer**: Collegati a [YouTube](https://www.youtube.com/), cerca il video della canzone e avvia la riproduzione. Clicca sull’icona dei **sottotitoli** in basso a destra per attivare i sottotitoli automatici, se disponibili.
 
@@ -76,7 +76,7 @@ Se sei un musicista o un creator alla ricerca di idee per testi, ci sono molti *
 
 **HIX.AI** è un tool che sfrutta l’[intelligenza artificiale](https://www.aranzulla.it/come-funziona-lintelligenza-artificiale-1499915.html) per generare testi personalizzati in base al genere e al mood della canzone. 
 
-![HIX.AI](/guide-img/d330ac83.jpg)
+![HIX.AI](/guide-img/output/d330ac83.jpg)
 
 Vai su [HIX.AI](https://writer.hix.ai/song-lyrics-generator) e inserisci le informazioni della canzone, come il tema e il tono. Dopo aver cliccato su **Generate**, il testo apparirà nella sezione di editing, dove puoi modificarlo, copiarlo o cancellarlo.
 
@@ -98,7 +98,7 @@ Se vuoi inserire i testi delle canzoni su Instagram o TikTok, ecco le funzioni p
 
 Su **Instagram**, puoi aggiungere i testi dei brani nelle storie utilizzando la funzione **Musica**.
 
-![Instagram Testo](/guide-img/cf7ef983.jpg)
+![Instagram Testo](/guide-img/output/cf7ef983.jpg)
 
 1. **Creazione storia**: Vai su **Storia**, tocca l’icona degli **adesivi** e seleziona **Musica**.
 2. **Personalizzazione testo**: Scegli la canzone e personalizza il font. Potrai impostare anche il punto specifico della traccia che desideri visualizzare, per poi pubblicarla come storia.
@@ -107,7 +107,7 @@ Su **Instagram**, puoi aggiungere i testi dei brani nelle storie utilizzando la 
 
 **TikTok** permette di aggiungere testi e sottotitoli ai video tramite la funzione **Sottotitoli**.
 
-![TikTok Testo](/guide-img/c24e4dd3.jpg)
+![TikTok Testo](/guide-img/output/c24e4dd3.jpg)
 
 1. **Sottotitoli manuali**: Dopo aver selezionato la canzone, accedi alla modalità di editing del video, clicca su **Testo** e aggiungi manualmente i sottotitoli.
 2. **Sottotitoli automatici**: Alcune tracce permettono di inserire sottotitoli automatici, utile per condividere i versi della canzone con i follower.

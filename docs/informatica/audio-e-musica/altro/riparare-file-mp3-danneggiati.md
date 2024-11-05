@@ -13,7 +13,7 @@ Se stai cercando una soluzione per ripristinare la qualità di file MP3 su **Win
 
 Se utilizzi **Windows** e devi aggiustare file MP3 danneggiati, ti consiglio di provare **MP3 Diags**. Questo programma gratuito consente di riparare file audio compromessi, correggendo problemi come la qualità audio scadente, errori nei tag, e dati errati sulla durata dei brani.
 
-![MP3 Diags](/guide-img/c8784b80.jpg)
+![MP3 Diags](/guide-img/output/c8784b80.jpg)
 
 Per scaricare MP3 Diags, vai al [sito ufficiale](http://mp3diags.sourceforge.net) e clicca su **Sourceforge** in alto a destra, poi su **Download**. Una volta scaricato, apri il file **EXE** e installalo seguendo le istruzioni.
 
@@ -25,7 +25,7 @@ Per scaricare MP3 Diags, vai al [sito ufficiale](http://mp3diags.sourceforge.net
 
 Se sei un utente **Mac**, puoi utilizzare **MP3 Scan + Repair**, un’app gratuita specifica per macOS che corregge errori nei file MP3, rendendo il processo di ripristino facile e veloce.
 
-![MP3 Scan + Repair](/guide-img/9fd0f876.jpg)
+![MP3 Scan + Repair](/guide-img/output/9fd0f876.jpg)
 
 Scarica l’app dal [sito ufficiale](http://triq.net/mac/mp3-scan-repair) e apri il file ZIP. Trascina l’icona dell’app nella cartella **Applicazioni** e aprila bypassando le restrizioni di sicurezza di macOS al primo avvio. Una volta aperta:
 
@@ -37,7 +37,7 @@ Scarica l’app dal [sito ufficiale](http://triq.net/mac/mp3-scan-repair) e apri
 
 Oltre alle app precedenti, esistono altri programmi che possono aiutarti a migliorare la qualità dei tuoi MP3 o a ripararli se presentano problemi di riproduzione.
 
-![Programmi per MP3](/guide-img/d8727850.jpg)
+![Programmi per MP3](/guide-img/output/d8727850.jpg)
 
 - **Audacity** ([Windows/macOS/Linux](https://www.audacityteam.org)) - un editor audio open-source utile non solo per creare, ma anche per migliorare e recuperare tracce audio danneggiate. Consulta la guida su [come usare Audacity](https://www.aranzulla.it/come-usare-audacity-951737.html) per più dettagli.
 - **Adobe Audition** ([Windows/macOS](https://www.adobe.com/it/products/audition.html)) - un editor professionale a pagamento per l’editing avanzato. Ottieni una prova gratuita o un abbonamento mensile per sbloccare tutte le funzioni.
@@ -49,7 +49,7 @@ Oltre alle app precedenti, esistono altri programmi che possono aiutarti a migli
 
 Se preferisci non installare programmi, puoi ricorrere a strumenti online per aggiustare i tuoi MP3 corrotti. Ecco alcune opzioni valide:
 
-![Riparare file MP3 online](/guide-img/ts3nl2yw.jpg)
+![Riparare file MP3 online](/guide-img/output/ts3nl2yw.jpg)
 
 - **4DDiG Free Online Audio Repair** ([link](https://4ddig.tenorshare.com/free-online-audio-repair-tool.html)) - supporta vari formati audio (MP3, AAC, M4A). È gratuito e non richiede registrazione.
 - **Restore.Media** ([link](https://restore.media)) - permette di caricare file e ottenere un preventivo per la riparazione. Include opzioni avanzate di ripristino a pagamento.
@@ -65,7 +65,7 @@ Se i tuoi file MP3 sono irrimediabilmente danneggiati, puoi tentare di **recuper
 
 **PhotoRec** è un programma gratuito per recuperare dati cancellati, tra cui file MP3, compatibile con Windows, macOS e Linux. È fornito insieme a **TestDisk**, un altro tool per recuperare partizioni.
 
-![PhotoRec](/guide-img/7cc0cfa5.jpg)
+![PhotoRec](/guide-img/output/7cc0cfa5.jpg)
 
 Scarica PhotoRec dal [sito ufficiale](https://www.cgsecurity.org/wiki/PhotoRec) e avvia il programma. Una volta aperto:
 
@@ -79,7 +79,7 @@ PhotoRec analizzerà l’unità per trovare eventuali versioni recuperabili dei 
 
 Se stai cercando altre alternative per recuperare file MP3 danneggiati, puoi considerare i seguenti software.
 
-![Recuperare File MP3](/guide-img/5fa1c5d9.jpg)
+![Recuperare File MP3](/guide-img/output/5fa1c5d9.jpg)
 
 - **Disk Drill** ([Windows/macOS](https://www.cleverfiles.com/it/data-recovery-software.html)) - uno dei migliori programmi per recuperare dati, compatibile con Windows e macOS. È gratuito fino a 500 MB, dopodiché richiede l’acquisto della versione completa.
 - **Recuva** ([Windows](https://www.ccleaner.com/it-it/recuva)) - un’opzione gratuita per il recupero di file cancellati, con una versione Pro a pagamento che offre supporto avanzato. Consulta il [tutorial su Recuva](https://www.aranzulla.it/recuva-come-funziona-1155562.html) per maggiori informazioni.
@@ -91,7 +91,7 @@ Se stai cercando altre alternative per recuperare file MP3 danneggiati, puoi con
 
 Se non hai un computer a disposizione, ci sono alcune soluzioni che puoi provare per riparare file MP3 direttamente su **smartphone e tablet**. Anche se non esistono applicazioni specifiche per la riparazione, puoi utilizzare editor audio o collegare il dispositivo al computer per recuperare i file.
 
-![Riparare File MP3 su Smartphone](/guide-img/5a4571d9.jpg)
+![Riparare File MP3 su Smartphone](/guide-img/output/5a4571d9.jpg)
 
 1. **Recupero Dati da Smartphone** - Collega il dispositivo al PC e utilizza uno dei software di recupero precedentemente descritti. Maggiori dettagli sono disponibili nel tutorial su come effettuare il [recupero dati dal cellulare](https://www.aranzulla.it/recupero-dati-cellulare-42353.html).
 2. **Editor Audio** - Esistono app di editing per tagliare e migliorare file audio direttamente da mobile. Consulta la guida sulle [app per modificare audio](https://www.aranzulla.it/app-per-modificare-audio-1392105.html) per conoscere le migliori app gratuite.
