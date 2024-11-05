@@ -39,3 +39,8 @@
 .menu__list-item .menu__list-item .menu__list-item > .menu__link {
   font-weight: normal;
 }
+
+img[src*="/guide-img/output/"] {
+  width: 610px !important; /* Forza la larghezza a 610px */
+  height: auto !important; /* Mantiene le proporzioni */
+}

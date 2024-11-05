@@ -33,7 +33,7 @@ class UrlFetcher {
   async saveArticles(urls) {
     // Creare le cartelle se non esistono
     const articleDir = path.join(__dirname, 'files');
-    const imageDir = path.join(__dirname, 'downloaded-img');
+    const imageDir = path.join(__dirname, '../static/guide-img/');
     if (!fs.existsSync(articleDir)) fs.mkdirSync(articleDir);
     if (!fs.existsSync(imageDir)) fs.mkdirSync(imageDir);
 

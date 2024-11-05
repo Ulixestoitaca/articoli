@@ -31,7 +31,7 @@ async function convertWebPToJpg(filePath) {
     }
 }
 
-// Funzione per elaborare l'immagine con inversione dei colori e salvataggio
+// Funzione per elaborare l'immagine con ridimensionamento, inversione dei colori e salvataggio
 async function processImage(filePath) {
     const outputPath = path.join(outputDir, path.basename(filePath, path.extname(filePath)) + '.jpg');
 
@@ -57,11 +57,27 @@ async function processImage(filePath) {
     }
 
     try {
-        await sharp(processedFilePath)
+        const image = sharp(processedFilePath);
+        const metadata = await image.metadata();
+        console.log(`Dimensioni originali per ${filePath}:`, metadata.width, 'x', metadata.height);
+
+        // Ridimensiona l'immagine se la larghezza è maggiore di 610 px
+        if (metadata.width > 610) {
+            image.resize({ width: 610 });
+            console.log(`Immagine ridimensionata a 610 px di larghezza per: ${filePath}`);
+        }
+
+        // Salva l'immagine finale con inversione dei colori
+        await image
             .negate()  // Inversione dei colori
             .jpeg({ quality: 85 })
             .toFile(outputPath);
-        console.log(`Immagine invertita salvata in: ${outputPath}`);
+
+        // Verifica le dimensioni dopo il ridimensionamento
+        const finalMetadata = await sharp(outputPath).metadata();
+        console.log(`Dimensioni finali per ${outputPath}:`, finalMetadata.width, 'x', finalMetadata.height);
+
+        console.log(`Immagine elaborata e salvata in: ${outputPath}`);
     } catch (err) {
         console.error(`Errore durante l'elaborazione di ${processedFilePath}:`, err);
     }
@@ -69,7 +85,7 @@ async function processImage(filePath) {
 
 // Elabora tutte le immagini nella directory
 async function processAllImages() {
-    //await ensureOutputDir();
+    await ensureOutputDir();
     try {
         const files = await fs.readdir(inputDir);
         console.log(`Trovati ${files.length} file nella directory ${inputDir}.`);
