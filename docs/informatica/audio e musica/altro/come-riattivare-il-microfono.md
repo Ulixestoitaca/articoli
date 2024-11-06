@@ -1,6 +1,8 @@
 ---
 slug: /come-riattivare-il-microfono
 ---
+
+
 # Guida per riattivare il microfono
 
 Hai accidentalmente disattivato il microfono sul tuo dispositivo, e ora, durante le chiamate o le videochiamate, nessuno riesce a sentirti? Questo problema può essere davvero fastidioso, ma non preoccuparti: in questa guida vedremo insieme come riattivare il microfono, sia su PC sia nelle principali applicazioni di messaggistica e videoconferenza su smartphone e tablet.

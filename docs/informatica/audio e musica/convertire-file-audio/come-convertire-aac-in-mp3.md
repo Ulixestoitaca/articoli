@@ -1,6 +1,7 @@
 ---
 slug: /come-convertire-aac-in-mp3
 ---
+
 # Come convertire AAC in MP3
 
 Hai provato a trasferire alcuni brani in formato AAC sul tuo lettore MP3 o sul telefono, ma non vengono riprodotti? Non preoccuparti, non sei l’unico! Molti dispositivi non supportano i file AAC, e spesso l’unico modo per ascoltarli è convertirli in un formato più compatibile, come l’MP3. Fortunatamente, la conversione da AAC a MP3 è un processo semplice, alla portata di tutti e, grazie a vari strumenti, può essere fatto in pochi minuti.

@@ -1,6 +1,8 @@
 ---
 slug: /come-creare-mp3-da-cd-audio
 ---
+
+
 # Come creare MP3 da CD audio
 
 Hai appena comprato il nuovo CD del tuo artista preferito e già ti vedi a canticchiare i suoi pezzi ovunque, dal PC al telefono, persino in macchina. Ma c'è un piccolo problema: chi usa più i CD? Ormai è tutta una questione di file digitali! Niente paura, però: possiamo trasformare facilmente le tracce di quel CD in comodi file MP3, perfetti per essere riprodotti ovunque. Questo procedimento si chiama "ripping", e anche se il termine sembra tecnico, non è nulla di complicato. Promesso.

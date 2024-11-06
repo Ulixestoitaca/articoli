@@ -1,6 +1,8 @@
 ---
 slug: /come-convertire-aiff-in-mp3
 ---
+
+
 # Come convertire AIFF in MP3
 
 Hai trovato dei file audio in formato AIFF e ti sei accorto che occupano un sacco di spazio e che alcuni dispositivi non riescono nemmeno a riprodurli? Beh, il formato AIFF, o Audio Interchange File Format, è perfetto per chi cerca la massima qualità audio, ma non è esattamente "amichevole" quando si tratta di spazio e compatibilità. Se vuoi ascoltare la tua musica su qualsiasi dispositivo senza occupare metà della memoria, una buona idea è quella di convertirli in MP3, un formato che bilancia bene qualità e spazio occupato.

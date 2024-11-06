@@ -1,13 +1,14 @@
 ---
 slug: /come-salvare-audiolibri-da-rai-3
 ---
+
+
 # Come salvare audiolibri da Rai 3
 
 Se sei un amante degli **audiolibri** e trovi piacevole trascorrere del tempo ascoltando grandi opere della letteratura, probabilmente conosci già il programma radiofonico _Ad alta voce_, trasmesso su **Radio Rai 3**. Questo programma è un'ottima risorsa per chi desidera ascoltare le letture di classici della letteratura italiana e internazionale, narrate da attori e doppiatori professionisti. Tuttavia, se non hai sempre accesso a una connessione Internet o preferisci poter ascoltare questi contenuti anche offline, ti starai chiedendo se sia possibile scaricarli sul tuo dispositivo.
 
 In questa guida troverai tutte le istruzioni dettagliate su **come scaricare gli audiolibri trasmessi da Radio Rai 3** utilizzando l’app **RaiPlay Sound**. Imparerai a scaricare e ascoltare i tuoi audiolibri preferiti su smartphone, tablet e persino su computer, così da avere a portata di mano storie e racconti in ogni momento. Segui i passaggi con attenzione per non perderti nessun dettaglio: preparati a immergerti in un’esperienza di ascolto senza limiti. Buona lettura e buon ascolto!
 
----
 
 ## Informazioni preliminari
 
@@ -25,7 +26,6 @@ La **compatibilità dell’app** con i sistemi operativi più diffusi rende il p
 
 Se hai bisogno di aiuto con la procedura di installazione, puoi fare riferimento a una [guida completa all’installazione](https://www.aranzulla.it/come-scaricare-rai-play-1147789.html#cap9) che ti accompagnerà passo passo.
 
----
 
 ## Come scaricare audiolibri Radio Rai 3
 
@@ -68,7 +68,6 @@ Gli episodi scaricati vengono automaticamente salvati nella sezione **I miei pod
 
 L’app RaiPlay Sound offre anche comandi semplici e intuitivi per mettere in pausa, riprendere l’ascolto, o passare da un episodio all’altro senza difficoltà, rendendo l’esperienza di ascolto facile e piacevole.
 
----
 
 ### Da computer
 

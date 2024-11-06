@@ -1,6 +1,8 @@
 ---
 slug: /programmi-per-convertire-musica
 ---
+
+
 # Programmi per convertire musica
 
 Hai appena copiato i brani dai tuoi CD preferiti sul computer? Grande mossa! Così potrai ascoltarli ovunque, anche offline. Però, ammettiamolo, certi file musicali in alta qualità possono pesare parecchio e non è sempre comodo tenerli così grandi sul telefono o sul PC. La soluzione? Convertirli in formati più “leggeri”, come MP3, senza sacrificare troppo la qualità. 

@@ -1,6 +1,7 @@
 ---
 slug: /principali-siti-per-karaoke
 ---
+
 # Guida Completa ai Migliori Siti per Karaoke
 
 Stai organizzando una festa con amici o vuoi semplicemente divertirti a cantare le tue canzoni preferite? 

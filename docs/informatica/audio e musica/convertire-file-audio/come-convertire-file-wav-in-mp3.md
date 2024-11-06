@@ -1,6 +1,8 @@
 ---
 slug: /come-convertire-file-wav-in-mp3
 ---
+
+
 # Come convertire file WAV in MP3
 
 Ti è mai capitato di scaricare una canzone o una traccia audio in formato WAV e renderti conto che occupa un'enorme quantità di spazio? I file **WAV**, infatti, sono come valigie senza compressione: non risparmiano nulla sulla qualità, ma riempiono velocemente la memoria! Se vuoi avere più spazio per altre cose e ascoltare la tua musica su qualsiasi dispositivo senza problemi di compatibilità, convertire questi file in **MP3** è una soluzione perfetta. Non ti preoccupare: non serve essere un genio dell'informatica, e oggi ti spiegherò come farlo passo passo, sia con programmi gratuiti per il computer, sia con servizi online e app per smartphone. Sei pronto? Vediamo insieme come fare!

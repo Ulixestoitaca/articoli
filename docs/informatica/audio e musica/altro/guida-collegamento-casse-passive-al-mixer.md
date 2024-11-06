@@ -2,6 +2,8 @@
 slug: /guida-collegamento-casse-passive-al-mixer
 ---
 
+
+
 # Guida Completa per Collegare le Casse Passive a un Mixer: Configurazione e Connessioni
 
 Il collegamento delle **casse passive** a un **mixer** è una soluzione molto comune per ottenere un sistema audio di alta qualità e su misura. Per chi desidera creare un impianto audio versatile, questa guida fornisce tutte le informazioni necessarie per collegare il mixer a casse passive, selezionando l'attrezzatura giusta e le connessioni più adatte. La guida approfondisce anche le differenze tra mixer attivi e passivi e come scegliere cavi e connettori appropriati.
