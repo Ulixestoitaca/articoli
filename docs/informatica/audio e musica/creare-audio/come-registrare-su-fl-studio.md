@@ -1,3 +1,6 @@
+---
+slug: /come-registrare-su-fl-studio
+---
 # Come registrare su FL Studio
 
 Hai mai immaginato di trasformare la tua stanza in uno studio di registrazione dove puoi registrare tracce vocali, strimpellate di chitarra e suoni sperimentali senza che nessuno ti dica di smettere? Bene, **FL Studio** è qui per rendere tutto questo possibile e ti prometto che non avrai bisogno di un manuale da 300 pagine per iniziare (anche se qualche risata potrebbe aiutarti lungo il percorso). Oggi ti insegnerò **come registrare voce e strumenti su FL Studio** con una guida passo dopo passo che ti farà sentire a tuo agio anche se è la tua prima volta. Preparati a diventare il prossimo genio della produzione musicale!

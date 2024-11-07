@@ -1,3 +1,6 @@
+---
+slug: /come-installare-vst-su-fl-studio
+---
 # Come installare VST su FL Studio
 
 Hai mai pensato di portare la tua produzione musicale a un livello superiore, con una gamma di suoni che farebbe impallidire persino il miglior DJ in circolazione? E magari senza dover vendere un rene per comprare nuove attrezzature? Bene, sei nel posto giusto! Con i **VST** (Virtual Studio Technology), puoi aggiungere strumenti virtuali ed effetti audio a **FL Studio** e trasformare il tuo computer in uno studio musicale di ultima generazione. Seguimi in questo viaggio musicale e ti guiderò passo dopo passo su come installare e utilizzare i VST, senza fronzoli e con un pizzico di ironia.

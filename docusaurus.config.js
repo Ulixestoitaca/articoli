@@ -18,6 +18,10 @@ const config = {
     defaultLocale: 'it',
     locales: ['it'],
   },
+  
+  future: {
+    experimental_faster: true,
+  },  
 
   scripts: [
     {

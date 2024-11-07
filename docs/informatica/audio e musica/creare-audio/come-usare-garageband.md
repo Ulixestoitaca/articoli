@@ -1,3 +1,6 @@
+---
+slug: /come-usare-garageband-md
+---
 # Come usare GarageBand
 
 **GarageBand** è un programma che probabilmente tutti gli utenti Mac e iOS hanno almeno intravisto, magari per caso, mentre cercavano di trovare il modo di ordinare cibo online con Siri. Questo software firmato **Apple** è come un piccolo coltellino svizzero musicale: semplice, potente e pronto a far emergere il Beethoven che c’è in te (anche se la tua esperienza con la musica si limita al karaoke in macchina). La sua bellezza? Puoi passare da zero a produrre musica di tutto rispetto senza sentirti come un topo in un labirinto.

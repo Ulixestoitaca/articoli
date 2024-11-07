@@ -1,3 +1,6 @@
+---
+slug: /come-registrare-con-audacity
+---
 # Come registrare con Audacity
 
 Hai mai sentito il desiderio di registrare la tua voce, una canzone o quei suoni bizzarri che il tuo gatto emette alle tre di notte? Beh, sei nel posto giusto! **Audacity** è la risposta a tutte le tue esigenze di registrazione, un programma gratuito e open-source che ti permetterà di creare e modificare audio come un professionista, anche se sei ancora un novellino. E la parte migliore? Funziona su **Windows**, **macOS** e persino **Linux**, così nessuno è escluso dal divertimento. Preparati, perché stai per diventare il re o la regina della registrazione domestica!

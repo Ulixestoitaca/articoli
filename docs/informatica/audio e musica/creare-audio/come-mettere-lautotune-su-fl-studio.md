@@ -1,3 +1,6 @@
+---
+slug: /come-mettere-lautotune-su-fl-studio
+---
 # Come mettere l’autotune su FL Studio
 
 Hai mai ascoltato una canzone e pensato: “Caspita, questa persona canta così bene da sembrare quasi... finta?” Bene, probabilmente hai ragione. La magia dietro molte voci ultra-perfette è l'**autotune**, il segreto per trasformare chiunque, anche il tuo amico stonato, in una pop star di prima categoria. E ora è arrivato il momento che anche tu scopra come mettere l’autotune su **FL Studio**, perché, ammettiamolo, anche il più grande dei talenti a volte ha bisogno di un piccolo aiuto (o un grande trucco!).

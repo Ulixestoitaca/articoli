@@ -1,3 +1,6 @@
+---
+slug: /programmi-per-fare-beat
+---
 # Programmi per fare beat
 
 Se sei uno di quelli che non riesce a stare fermo e ogni superficie diventa un tamburo improvvisato, allora benvenuto! Hai trovato la tua guida perfetta per scoprire come diventare il prossimo re dei beat senza dover vendere i tuoi cimeli di famiglia o, peggio, il tuo amato tostapane vintage. Sia che tu voglia comporre ritmi da discoteca che fanno tremare i muri o beat hip-hop per far muovere anche il più rigido degli zii alle cene di famiglia, c’è un programma pronto per te. E, spoiler: alcuni sono persino gratuiti. Quindi allaccia le cinture e preparati a esplorare un mondo di software e app che ti faranno sentire come il Quincy Jones dei tempi moderni (ma con il pigiama addosso e un caffè in mano).

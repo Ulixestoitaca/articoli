@@ -1,3 +1,6 @@
+---
+slug: /come-usare-ableton-live
+---
 # Come usare Ableton Live
 
 Se la tua passione è fare musica e hai sempre sognato di maneggiare un software professionale senza sentire il bisogno di una laurea in ingegneria musicale, allora **Ableton Live** è esattamente quello che fa per te. È uno dei programmi più utilizzati da DJ, produttori musicali e musicisti di tutto il mondo, nonché il tuo nuovo migliore amico se stai cercando di trasformare il tuo computer in uno studio di registrazione degno di nota. In questa guida scopriremo **come usare Ableton Live**, dalle basi fino a qualche trucco avanzato, e ti prometto che ci divertiremo nel frattempo.

@@ -1,3 +1,6 @@
+---
+slug: /come-fare-beat-su-fl-studio
+---
 # Come fare beat su FL Studio
 
 Ah, FL Studio! Quell'affascinante software che riesce a trasformare un laptop un po’ impolverato in una console da DJ così potente da far ballare anche il gatto. È il programma perfetto per tutti quelli che hanno passato almeno una serata a battere le dita sul tavolo come se fossero i nuovi re della drum machine. E la cosa incredibile? Funziona davvero. In pochi passaggi, ti ritrovi con un beat tra le mani che, se chiudi gli occhi, ti sembra di sentire il pubblico acclamarti. Ma andiamo con ordine, o rischiamo di iniziare a ballare prima del dovuto.
