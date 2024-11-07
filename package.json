@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "prestart": "node scripts/generateRecentDocsData.js && node scripts/alterImages.js && node scripts/addSlug.js",
-    "prebuild": "node scripts/generateRecentDocsData.js",
+    "prebuild": "",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
