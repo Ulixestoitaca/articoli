@@ -1,6 +1,5 @@
-// docusaurus.config.js
-
 import { themes as prismThemes } from 'prism-react-renderer';
+import terserWebpackPlugin from './src/plugins/terser-webpack-plugin';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -8,7 +7,7 @@ const config = {
   tagline: 'Ogni problema ha una soluzione',
   favicon: 'img/favicon.ico',
   url: 'https://www.impresaitalia.info',
-  baseUrl: '/articoli/', // Rimuove '/build/' dalla base dell'URL
+  baseUrl: '/articoli/',
   organizationName: 'impresaitalia',
   projectName: 'articoli',
   onBrokenLinks: 'warn',
@@ -20,15 +19,8 @@ const config = {
   },
   
   future: {
-    experimental_faster: {
-      swcJsLoader: true,
-      swcJsMinimizer: true,
-      swcHtmlMinimizer: true,
-      lightningCssMinimizer: true,
-      rspackBundler: true,
-      mdxCrossCompilerCache: true,
-    },
-  },
+    experimental_faster: true,
+  },  
 
   scripts: [
     {
@@ -45,8 +37,8 @@ const config = {
       'classic',
       {
         docs: {
-          path: 'docs', // Mantieni la cartella 'docs'
-          routeBasePath: '/', // Serve i documenti alla root di `baseUrl`, senza includere 'docs' nell'URL
+          path: 'docs',
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl: undefined,
         },
@@ -76,7 +68,6 @@ const config = {
         src: 'https://www.impresaitalia.info/public_resources/logo.jpg',
         href: "pathname://",
       },
-
       items: [
         {
           type: 'docSidebar',
@@ -142,6 +133,10 @@ const config = {
       darkTheme: prismThemes.dracula,
     },
   },
+
+  plugins: [
+    terserWebpackPlugin,
+  ],
 };
 
 export default config;
