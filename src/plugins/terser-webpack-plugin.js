@@ -8,6 +8,9 @@ function terserWebpackPlugin(context, options) {
         return {
           optimization: {
             minimize: true,
+            splitChunks: {
+              chunks: 'all', // Dividi tutti i tipi di chunk per migliorare la suddivisione del codice
+            },
             minimizer: [
               new TerserWebpackPlugin({
                 terserOptions: {
@@ -16,10 +19,6 @@ function terserWebpackPlugin(context, options) {
                     drop_debugger: true, // Rimuove i debugger
                     ecma: 2015, // Target ECMAScript 2015 per una compressione più moderna
                     passes: 3, // Aumenta il numero di passate per una compressione più aggressiva
-                    keep_fargs: false, // Rimuove gli argomenti inutilizzati dalle funzioni
-                    keep_classnames: false, // Rimuove i nomi delle classi inutilizzati
-                    keep_fnames: false, // Rimuove i nomi delle funzioni inutilizzati
-                    reduce_vars: true, // Collassa le variabili usate solo una volta
                   },
                   output: {
                     comments: false, // Rimuove i commenti
@@ -30,7 +29,7 @@ function terserWebpackPlugin(context, options) {
                     },
                   },
                 },
-                extractComments: false, // Impedisce l'estrazione dei commenti in un file separato
+                extractComments: false, // Evita l'estrazione dei commenti
               }),
             ],
           },
