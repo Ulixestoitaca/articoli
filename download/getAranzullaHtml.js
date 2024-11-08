@@ -1,7 +1,7 @@
 const UrlFetcher = require('./UrlFetcher');
 
 async function main() {
-  const url = "https://www.aranzulla.it/computer/audio-e-musica/creare-audio";
+  const url = "https://www.aranzulla.it/computer/audio-e-musica/cuffie-speaker";
   const fetcher = new UrlFetcher(url);
   
   const urls = await fetcher.fetchUrls();

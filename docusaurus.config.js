@@ -1,5 +1,5 @@
 import { themes as prismThemes } from 'prism-react-renderer';
-import terserWebpackPlugin from './src/plugins/terser-webpack-plugin';
+//import terserWebpackPlugin from './src/plugins/terser-webpack-plugin';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -18,9 +18,9 @@ const config = {
     locales: ['it'],
   },
   
-  future: {
+  /*future: {
     experimental_faster: true,
-  },  
+  },  */
 
   scripts: [
     {
@@ -67,6 +67,7 @@ const config = {
         alt: 'ImpresaItalia - Come fare per?',
         src: 'https://www.impresaitalia.info/public_resources/logo.jpg',
         href: "pathname://",
+		className: 'custom-logo',
       },
       items: [
         {
@@ -133,10 +134,10 @@ const config = {
       darkTheme: prismThemes.dracula,
     },
   },
-
+/*
   plugins: [
     terserWebpackPlugin,
-  ],
+  ],*/
 };
 
 export default config;

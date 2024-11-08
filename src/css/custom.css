@@ -44,3 +44,8 @@ img[src*="/guide-img/output/"] {
   width: 610px !important; /* Forza la larghezza a 610px */
   height: auto !important; /* Mantiene le proporzioni */
 }
+
+.custom-logo {
+  width: 125px; /* Imposta la larghezza */
+  height: 32; /* Imposta l'altezza */
+}
