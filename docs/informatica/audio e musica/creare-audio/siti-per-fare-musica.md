@@ -1,3 +1,6 @@
+---
+slug: /siti-per-fare-musica
+---
 # Siti per fare musica: come creare brani senza muoverti dal divano (con dettagli ironici e completi)
 
 Hai mai sognato di essere un produttore musicale, ma il tuo portafoglio ti ha guardato con una faccia tra lo sbigottito e il terrorizzato? Non temere: la tecnologia moderna ha deciso di venirci incontro con una miriade di siti per creare musica online, gratis e accessibili a chiunque abbia un minimo di "orecchio musicale". Immagina: niente studi di registrazione costosi, niente software super complicati da scaricare e configurare, solo te, la tua creatività e un browser. Sì, hai capito bene, tutto si svolge online e con una semplicità che farebbe invidia a un tutorial per montare un mobile svedese (quasi).

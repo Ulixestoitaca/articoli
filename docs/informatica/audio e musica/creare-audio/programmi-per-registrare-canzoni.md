@@ -1,3 +1,6 @@
+---
+slug: /programmi-per-registrare-canzoni
+---
 # Programmi per registrare canzoni: la guida completa e ironica per musicisti in erba e professionisti
 
 Hai deciso di intraprendere il viaggio musicale della tua vita, ma il tuo budget ti fa pensare più al sound di un vecchio walkman che a uno studio di registrazione professionale? Non temere, c'è una buona notizia: esistono programmi per registrare canzoni che faranno sembrare le tue tracce appena uscite da un mixer di alto livello, e alcuni di essi sono addirittura gratuiti. Preparati, perché oggi ti accompagnerò nella giungla dei software di registrazione, dai giganti del settore alle opzioni più semplici e immediate, senza dimenticare qualche app per registrare musica anche quando sei in giro.

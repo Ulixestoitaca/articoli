@@ -1,3 +1,6 @@
+---
+slug: /programmi-per-comporre-musica
+---
 # Programmi per comporre musica: la guida definitiva per aspiranti produttori e artisti
 
 Se sei qui, probabilmente hai sognato almeno una volta di comporre la prossima hit da far ballare tutto il quartiere, magari senza uscire di casa o – diciamocelo – senza toglierti il pigiama. La buona notizia è che oggi, grazie alla tecnologia, puoi farlo con pochi clic e un po' di ispirazione. La cattiva notizia? Scegliere il programma giusto può essere più complicato di una cena con i parenti quando tutti vogliono ordinare qualcosa di diverso. Ma non temere, questa guida ti farà strada nel magico (e a volte caotico) mondo dei software per comporre musica, da quelli gratuiti a quelli premium, per Windows, macOS e persino per i tuoi dispositivi mobili. E sì, useremo un tono scherzoso, perché chi ha detto che fare musica debba essere un affare serio?

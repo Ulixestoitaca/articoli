@@ -1,3 +1,6 @@
+---
+slug: /come-creare-una-canzone-online
+---
 # Come creare una canzone pop: guida dettagliata
 
 Hai mai sentito la voglia irrefrenabile di creare una canzone pop così accattivante che persino il tuo vicino, quello che ama il silenzio tanto da sentire anche il suono di una formica, si ritroverebbe a canticchiarla? Bene, sei nel posto giusto. Forse stai pensando che per creare una hit pop servano studi di registrazione costosi e un team di produttori, ma la realtà è più semplice (e divertente) di quanto sembri. Basta avere un computer, un po’ di creatività e una spruzzata di ironia per iniziare. Sei pronto a diventare un novello Justin Timberlake da salotto? Ecco tutto quello che ti serve sapere, passo dopo passo.

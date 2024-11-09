@@ -1,3 +1,6 @@
+---
+slug: /migliori-tastiere-midi-guida-all-acquisto
+---
 # Migliori tastiere MIDI: guida all’acquisto
 
 Se sei qui, è perché stai cercando di aggiungere un tocco di magia al tuo setup musicale o magari stai per fare il grande passo verso la tua prima tastiera MIDI. Hai forse guardato l'ennesimo video di un musicista che sfoggia le sue prodezze sulle note di una tastiera e hai pensato: "Anche io voglio far suonare la mia camera come uno studio di produzione serio!". Bene, sei nel posto giusto. Ma preparati, perché ti guiderò nel mondo delle tastiere MIDI con dettagli così minuziosi da farti pensare: "Forse dovrei farci una tesi".

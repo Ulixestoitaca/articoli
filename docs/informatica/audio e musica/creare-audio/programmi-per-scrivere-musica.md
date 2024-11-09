@@ -1,3 +1,6 @@
+---
+slug: /programmi-per-scrivere-musica
+---
 # Programmi per scrivere musica: la guida definitiva per aspiranti compositori, hobbisti e professionisti (con un tocco di ironia)
 
 Hai mai sognato di comporre un brano che lasci tutti a bocca aperta? Forse vuoi scrivere una colonna sonora che faccia invidia a Hans Zimmer, o magari creare una ballata pop che diventi un tormentone estivo. Qualunque sia la tua ambizione, c'è una buona notizia: oggi ti guiderò alla scoperta dei migliori programmi per scrivere musica, sia gratuiti che a pagamento, passando per strumenti online e app per dispositivi mobili. Perché, diciamocelo, comporre musica oggi è più accessibile che mai, e il mondo del pentagramma digitale è pronto ad accoglierti a braccia aperte. Prepara il mouse, allinea la sedia e affina l'orecchio musicale: si parte!

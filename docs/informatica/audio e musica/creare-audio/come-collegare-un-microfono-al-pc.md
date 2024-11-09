@@ -1,3 +1,6 @@
+---
+slug: /come-collegare-un-microfono-al-pc
+---
 # Come collegare un microfono a condensatore al PC: guida intensamente dettagliata e ironica
 
 Hai finalmente comprato il tuo primo microfono a condensatore, pronto a registrare la tua voce come un professionista, magari per un podcast o per cantare sotto la doccia ma con stile. Ma ecco il problema: come diavolo si collega questa meraviglia tecnologica al PC? Non temere! Con questa guida ti spiegherò come fare il tutto in modo dettagliato, con un tocco di ironia per non annoiarti a morte. Pronto a diventare un esperto di cavi, connettori e Phantom power? Allacciati le cuffie, perché iniziamo!

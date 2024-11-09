@@ -1,3 +1,6 @@
+---
+slug: /come-creare-basi-musicali-gratis-su-internet
+---
 # Come creare basi musicali gratis su Internet: una guida dettagliata e ironica
 
 Ti sei svegliato stamattina con un’idea geniale per un brano musicale, e il mondo non può fare a meno di ascoltarlo. Solo che c’è un piccolo problema: non hai un intero studio di registrazione in casa, né un budget da rockstar. Tranquillo, non devi vendere un rene per produrre la tua musica. Ti basta un computer, una connessione a Internet e questa guida dettagliata (con un pizzico di ironia) su come creare basi musicali gratis. Prepara le cuffie e accendi il PC, perché ci tuffiamo nel magico mondo dei software e delle app online.

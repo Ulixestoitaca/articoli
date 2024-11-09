@@ -1,3 +1,6 @@
+---
+slug: /creare-una-suoneria-per-il-cellulare
+---
 # Come creare una suoneria per il cellulare
 
 Ammettilo: hai ancora quella vecchia suoneria che si chiama "Classic Ring" o, peggio, la famigerata "Nokia Tune". Forse è il momento di fare un upgrade e personalizzare un po' il tuo smartphone, rendendolo finalmente unico come un panino fatto a mano alle due di notte. Fortunatamente, creare una suoneria personalizzata non richiede un laboratorio di produzione musicale né un genio della lampada tecnologico: basta un po' di pazienza, qualche clic e una canzone che ti piace.

@@ -1,3 +1,6 @@
+---
+slug: /come-registrare-audio-interno-telefono
+---
 # Come registrare audio interno telefono: la guida completa e dettagliata (con un tocco di ironia)
 
 Se ti è mai capitato di voler registrare l’audio interno del tuo telefono, sai bene quanto possa sembrare un’impresa impossibile, soprattutto quando ti ritrovi davanti a messaggi del tipo: “Spiacenti, questa funzione non è supportata”. Ma non temere, intrepido esploratore tecnologico! Sei nel posto giusto per scoprire come registrare l’audio interno del tuo smartphone senza dover vendere l’anima al diavolo o passare ore in un labirinto di impostazioni oscure. Che tu stia usando un dispositivo Android o un iPhone, ti mostrerò come fare tutto con semplicità e un pizzico di dettagli utili che non troverai altrove. Prepara le dita e rilassati, perché stiamo per entrare nel mondo magico della registrazione audio interna.

@@ -1,3 +1,6 @@
+---
+slug: /come-registrare-audio-del-pc
+---
 # Come registrare l'audio del PC: una guida completa e dettagliata (con un tocco di ironia)
 
 Hai mai provato a registrare l’audio dal tuo PC solo per ritrovarti con un risultato che sembra provenire da un altoparlante malandato nel bel mezzo di un temporale? Tranquillo, sei in buona compagnia. La registrazione audio sul computer può sembrare una di quelle cose semplici a cui non si pensa mai fino a quando non si è lì, cliccando disperatamente su ogni pulsante visibile. Ma la buona notizia è che esistono modi semplici (e, se hai pazienza, anche divertenti) per farlo senza dover chiedere aiuto al cugino smanettone. Che tu stia usando **Windows** o **macOS**, c'è una soluzione per te. Preparati a scoprire tutto quello che c'è da sapere per registrare l’audio del PC come un vero professionista.

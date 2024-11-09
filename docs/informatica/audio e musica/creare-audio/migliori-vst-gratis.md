@@ -1,3 +1,6 @@
+---
+slug: /migliori-vst-gratis
+---
 # Migliori VST gratis: la guida definitiva per produrre musica senza svuotare il portafoglio
 
 Se sei un aspirante produttore musicale o semplicemente uno che ama smanettare con la musica nel tempo libero, probabilmente ti sarai chiesto: "Ma è davvero possibile creare suoni di qualità senza vendere l'anima per un plugin costoso?". La risposta è un gigantesco "Sì!". E no, non stiamo parlando di plugin che suonano come un campanello difettoso o di software con più bug di un picnic estivo. Esistono VST gratuiti che possono portare il tuo home studio a un livello che nemmeno avresti immaginato. Prendi le cuffie, apri la tua DAW preferita e preparati a scoprire i migliori VST gratuiti che ogni producer dovrebbe avere nel suo arsenale.

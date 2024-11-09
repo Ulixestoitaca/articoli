@@ -1,3 +1,6 @@
+---
+slug: /siti-per-creare-canzoni
+---
 # Siti per creare canzoni: come diventare un produttore musicale senza muoverti dal divano (con tanto di ironia e dettagli!)
 
 Ti sei mai svegliato al mattino con un'idea brillante per una canzone, ma sei poi rimasto bloccato al pensiero di dover imparare a suonare uno strumento o cercare il giusto software di produzione musicale? Se la risposta è sì, sappi che non sei solo. Non tutti nascono con la fortuna di avere uno studio di registrazione in casa o la pazienza di imparare a strimpellare il piano come Beethoven. Ma non temere: oggi, grazie al meraviglioso mondo di internet e alle potenzialità dell'intelligenza artificiale, puoi creare una canzone in pochi clic, con il minimo sforzo e, soprattutto, senza far alzare nemmeno un sopracciglio al tuo cane che osserva curioso dalla cuccia. In questa guida prolissa (perché, diciamocelo, i dettagli non sono mai troppi), scoprirai i migliori siti per trasformare le tue idee in musica reale, e non solo. Sarai pronto a far ballare, commuovere e conquistare l'universo digitale!

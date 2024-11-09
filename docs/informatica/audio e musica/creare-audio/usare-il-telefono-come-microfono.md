@@ -1,3 +1,6 @@
+---
+slug: /usare-il-telefono-come-microfono
+---
 # Come usare il telefono come microfono: la guida completa e dettagliata per ogni esigenza
 
 Hai presente quella volta in cui la tua webcam ha deciso di tradirti con un audio degno di un vecchio walkie-talkie? O quando ti sei reso conto che il microfono del tuo computer è talmente scarso da far sembrare la tua voce quella di un robot arrabbiato? Se stai cercando un modo per risolvere questi dilemmi senza dover spendere cifre esorbitanti, sei nel posto giusto. Ti guiderò nel magico mondo in cui il tuo smartphone diventa un microfono esterno per il PC, il Mac o persino per la tua amata PS4. Fidati, con questa guida, farai un salto di qualità nelle tue registrazioni e nelle tue videochiamate. Preparati, prendi il telefono e vediamo come fare!

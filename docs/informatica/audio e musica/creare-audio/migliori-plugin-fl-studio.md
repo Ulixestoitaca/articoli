@@ -1,3 +1,6 @@
+---
+slug: /migliori-plugin-fl-studio
+---
 # Migliori plugin per FL Studio: guida completa, dettagliata e ironica per produttori musicali (con immagini)
 
 Se hai passato ore e ore a cercare di far suonare il tuo progetto come una hit da classifica, ma il risultato finale somigliava più al gracchiare di un piccione su un tetto, allora sappi che non sei solo. La buona notizia è che FL Studio può fare miracoli, soprattutto quando lo arricchisci con i plugin giusti. Oggi ti svelerò un mondo fatto di strumenti e effetti capaci di trasformare i tuoi suoni piatti in un turbinio di armonie e vibrazioni. Preparati a un viaggio dettagliato (e sì, un po’ prolisso, perché il mondo dei plugin è immenso) alla scoperta dei migliori alleati che un produttore musicale possa desiderare. Allacciate le cinture: si parte!

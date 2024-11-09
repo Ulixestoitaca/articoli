@@ -1,3 +1,6 @@
+---
+slug: /come-registrare-una-canzone-con-il-telefono
+---
 # Come registrare una canzone con il telefono
 
 Quante volte ti sei svegliato nel cuore della notte con un’idea geniale per una canzone e, nella confusione del momento, hai cercato di ricordarla al mattino, solo per ritrovarti con un “la la la” confuso e poco ispirato? Bene, è arrivato il momento di usare il tuo smartphone come il tuo fedele compagno musicale, pronto a catturare idee in qualsiasi momento, ovunque tu sia. In questa guida iper-dettagliata e dal tono più rilassato di una chiacchierata tra amici, ti spiegherò come registrare una canzone con il telefono, sfruttando app e strumenti semplici ma efficaci per far sembrare il tuo lavoro degno di uno studio di registrazione.

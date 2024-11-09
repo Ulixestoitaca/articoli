@@ -1,3 +1,6 @@
+---
+slug: /come-registrare-la-chitarra-sul-pc
+---
 # Come registrare la chitarra sul PC
 
 Hai finalmente trovato il riff perfetto, quello che suona epico come una tempesta in un deserto e che farà scatenare chiunque lo ascolti? Bene, ma come trasformare quel momento di gloria in una registrazione di qualità senza che il suono assomigli a un’eco lontana registrata con un tostapane? Non preoccuparti, sei nel posto giusto. Oggi ti guiderò attraverso l’arte della registrazione della chitarra sul PC con un approccio minuzioso, scherzoso e dannatamente dettagliato. Preparati a scoprire i segreti di un setup che farà sembrare il tuo piccolo studio casalingo il paradiso dei chitarristi.

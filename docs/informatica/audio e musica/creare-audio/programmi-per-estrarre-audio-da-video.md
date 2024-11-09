@@ -1,3 +1,6 @@
+---
+slug: /programmi-per-estrarre-audio-da-video
+---
 # Programmi per estrarre audio da video: la guida completa e minuziosa
 
 Immagina questa scena: stai guardando un video su internet – magari un discorso toccante, un’esibizione musicale epica o una scena di un film con una colonna sonora da brividi – e pensi: "Questo audio lo voglio!". E quando dico "lo voglio", intendo che vuoi averlo sul tuo dispositivo per riascoltarlo quando vuoi, senza dover cercare disperatamente quel video tra le mille schede aperte del browser. Bene, oggi ti guiderò attraverso i migliori programmi e metodi per estrarre l’audio dai video, perché vogliamo tutti avere una playlist personalizzata senza dover scendere a compromessi. Pronti? Via!

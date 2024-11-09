@@ -1,3 +1,6 @@
+---
+slug: /come-registrare-una-canzone-sul-pc
+---
 # Come registrare una canzone sul PC
 
 Ti sei mai trovato a canticchiare una melodia fantastica sotto la doccia, sicuro che sarà la prossima hit dell’estate, ma una volta uscito dall’acqua la tua mente è vuota come il fondo di un barattolo di Nutella? Non disperare, perché registrare una canzone sul PC è l’arte perduta che può salvarti da questo tormento. E se pensi che per farlo serva uno studio di registrazione con tecnici in camice bianco e attrezzature che sembrano uscite da un film di fantascienza, sappi che il tuo computer può fare miracoli. Basta un po’ di pratica, il software giusto e un pizzico di perseveranza.
