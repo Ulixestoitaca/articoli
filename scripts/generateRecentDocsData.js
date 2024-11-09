@@ -26,7 +26,7 @@ function getDocText(docPath) {
       .trim(); // Rimuove eventuali spazi bianchi residui
 
     const words = cleanedContent.split(/\s+/);
-    return words.slice(0, 15).join(' ') + '...'; // Prendi le prime 15 parole
+    return words.slice(0, 30).join(' ') + '...'; // Prendi le prime 15 parole
   } catch (error) {
     console.error(`Errore nella lettura del file: ${docPath}`, error);
     return '';
@@ -66,7 +66,7 @@ function generateRecentDocsData() {
   });
 
   // Limita ai primi 6 file e crea i record
-  const filesToProcess = sortedFiles.slice(0, 6); // Ottieni solo i primi 6 file più recenti
+  const filesToProcess = sortedFiles.slice(0, 9); // Ottieni solo i primi 6 file più recenti
   for (const filePath of filesToProcess) {
     const title = path.basename(filePath, path.extname(filePath))
       .replace(/[-_]/g, ' ') // Sostituisce "-" e "_" con spazi
