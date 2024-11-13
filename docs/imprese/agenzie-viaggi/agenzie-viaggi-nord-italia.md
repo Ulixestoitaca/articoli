@@ -5,7 +5,7 @@ slug: /agenzie-viaggi-nord-italia/
 
 Organizzare un viaggio può sembrare complicato, ma per fortuna ci sono tante agenzie di viaggi pronte ad aiutarti in ogni passo. Dalla scelta della meta perfetta a tutti quei piccoli dettagli che trasformano una vacanza in un’esperienza unica, le agenzie di viaggi italiane sono pronte a rendere i tuoi viaggi memorabili! Ecco una panoramica delle migliori opzioni nelle città italiane dove ti aspettano incredibili scoperte.
 
-![Viaggio Italia](/guide-img//1.jpg)
+![Viaggio Italia](/guide-img/output/1.jpg)
 
 ## Agenzie di Viaggi a Bologna: Scopri la Grassa e Dotta!
 
@@ -19,7 +19,7 @@ Ah, Trieste! Questa città con il fascino austroungarico e un pizzico di mare it
 
 E per chi vuole un po' di avventura? Le agenzie triestine propongono anche percorsi tra le colline del Carso o escursioni giornaliere verso la Slovenia. Una bella scampagnata, un caffè forte come solo Trieste sa fare e via, pronti per l'avventura! Non manca nemmeno la possibilità di fare una degustazione di vini tipici del Carso, per concludere la giornata in bellezza.
 
-![Trieste](/guide-img/2.jpg)
+![Trieste](/guide-img/output/2.jpg)
 
 ## Agenzie di Viaggi a Genova: Dove il Mare Incontra la Storia
 
@@ -33,7 +33,7 @@ Milano è molto più di moda e design; è una città con un’infinità di angol
 
 E poi, se ti piace il glamour, molte agenzie organizzano anche tour di shopping con accesso esclusivo a boutique di alta moda. Un tour che unisce bellezza, storia e stile! E se hai un giorno in più, perché non fare un giro sul lago di Como? Con le sue ville lussuose e le acque tranquille, è una pausa perfetta dalla frenesia milanese.
 
-![Milano Viaggi](/guide-img/3.jpg)
+![Milano Viaggi](/guide-img/output/3.jpg)
 
 ## Agenzie di Viaggi a Torino: Una Città tra Arte e Montagne
 

@@ -5,7 +5,7 @@ slug: /agenzie-viaggi-sud-italia
 
 Il Sud Italia è famoso per la sua ospitalità, le bellezze naturali e una cultura che non smette mai di affascinare. Le agenzie di viaggio del Mezzogiorno sono pronte a mostrarti i tesori di queste terre, organizzando itinerari su misura che spaziano tra mare, montagne e storia millenaria. Ecco una panoramica delle agenzie di viaggio in alcune delle città più rappresentative del Sud Italia!
 
-![Sud Italia viaggio](/guide-img/7.jpg)
+![Sud Italia viaggio](/guide-img/output/7.jpg)
 
 ## Agenzie di Viaggi a L’Aquila: Natura, Storia e Tradizioni
 
@@ -19,7 +19,7 @@ Potenza è una città che sorprende, circondata dalle montagne lucane e immersa 
 
 Per chi preferisce un tuffo nella cultura locale, le agenzie organizzano anche tour nei borghi storici, come Melfi e Venosa, dove è possibile visitare castelli, chiese antiche e assaporare la cucina lucana. Potenza è una meta perfetta per chi cerca un’esperienza lontana dal turismo di massa, in un ambiente autentico e accogliente.
 
-![Viaggi Potenza](/guide-img/8.jpg)
+![Viaggi Potenza](/guide-img/output/8.jpg)
 
 ## Agenzie di Viaggi a Catanzaro: Mare e Montagne a Due Passi
 
@@ -33,7 +33,7 @@ Napoli è una città vivace, colorata e con una personalità inconfondibile. Le 
 
 Napoli è anche una meta perfetta per gli amanti della cucina. Tra una visita al Maschio Angioino e una passeggiata per Via Toledo, non può mancare una tappa per gustare una pizza napoletana o un sfogliatella, perfette per chi ama scoprire una città anche attraverso il palato.
 
-![Napoli tour](/guide-img/9.jpg)
+![Napoli tour](/guide-img/output/9.jpg)
 
 ## Agenzie di Viaggi a Campobasso: Tradizioni e Natura al Centro del Molise
 
@@ -53,7 +53,7 @@ Cagliari, la capitale della Sardegna, è una città che offre sia cultura che be
 
 Per chi vuole immergersi nella cultura sarda, molte agenzie organizzano gite nelle vicine località, dove è possibile scoprire le tradizioni popolari e partecipare a degustazioni di specialità locali, come il pane carasau, il pecorino sardo e la bottarga.
 
-![Cagliari tour](/guide-img/10.jpg)
+![Cagliari tour](/guide-img/output/10.jpg)
 
 ## Agenzie di Viaggi a Palermo: Storia, Mare e Sapori Siciliani
 

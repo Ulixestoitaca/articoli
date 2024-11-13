@@ -5,7 +5,7 @@ slug: /agenzie-viaggi-centro-italia
 
 Viaggiare è una delle cose più belle, specialmente quando c’è qualcuno che pensa a tutto per te! Nel cuore dell’Italia, troverai agenzie di viaggi che non solo conoscono ogni angolo e segreto di queste bellissime città, ma sanno anche come trasformare un semplice weekend in un’avventura indimenticabile. Scopri le migliori opzioni nel Centro Italia, tra Roma, Ancona, Perugia, Firenze, Livorno e Latina, dove non mancano esperienze uniche e itinerari incantevoli.
 
-![Centro Italia viaggio](/guide-img/4.jpg)
+![Centro Italia viaggio](/guide-img/output/4.jpg)
 
 ## Agenzie di Viaggi a Roma: Storia e Avventura in Ogni Angolo
 
@@ -19,7 +19,7 @@ Ah, Ancona! Questa città affacciata sul mare Adriatico sa conquistare chiunque 
 
 Le agenzie anconetane offrono anche tour culturali che ti porteranno a esplorare il centro storico e i suoi tesori, come il porto storico e la maestosa Cattedrale di San Ciriaco. Se sei un amante del vino, puoi anche scegliere un tour enogastronomico alla scoperta dei vini marchigiani, come il Verdicchio, accompagnato da prelibatezze locali come olive all’ascolana e salumi tipici. Un viaggio che unisce mare, montagna e buon cibo… cosa chiedere di più?
 
-![Ancona tour](/guide-img/5.jpg)
+![Ancona tour](/guide-img/output/5.jpg)
 
 ## Agenzie di Viaggi a Perugia: Cultura, Cioccolato e Paesaggi da Sogno
 
@@ -33,7 +33,7 @@ Firenze è una delle città più iconiche del mondo, e ogni viaggio qui è come 
 
 Se ami il vino, le agenzie fiorentine propongono escursioni nelle campagne del Chianti, dove potrai degustare vini pregiati e ammirare i paesaggi da cartolina della Toscana. Firenze è un connubio perfetto tra arte, storia e buon gusto, e le sue agenzie di viaggi ti permettono di vivere ogni aspetto della città in modo autentico e coinvolgente.
 
-![Firenze tour](/guide-img/6.jpg)
+![Firenze tour](/guide-img/output/6.jpg)
 
 ## Agenzie di Viaggi a Livorno: Un Mare di Possibilità tra Costa e Sapori Toscani
 
