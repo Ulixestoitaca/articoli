@@ -1,3 +1,6 @@
+---
+slug: /come-collegare-cuffie-wireless-alla-tv
+---
 # Come collegare cuffie wireless alla TV: la guida per veri maestri della tecnologia (e del relax)
 
 Dopo una lunga giornata di lavoro, tutto ciò che vuoi è goderti un po' di tranquillità e guardare la tua serie preferita in pace. Ma... sorpresa! I tuoi orari non coincidono con quelli del resto della famiglia, e l'idea di alzare il volume potrebbe causare una rivolta. Ecco perché hai deciso di usare un paio di cuffie wireless, così puoi goderti l'azione sullo schermo senza disturbare nessuno. Ma come collegarle alla TV? Niente panico, ecco una guida che ti spiega tutto in modo semplice (e con un pizzico di ironia).

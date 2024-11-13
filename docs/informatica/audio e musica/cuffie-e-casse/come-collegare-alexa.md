@@ -1,3 +1,6 @@
+---
+slug: /come-collegare-alexa
+---
 # Come collegare Alexa: La guida definitiva (e un po' ironica)
 
 Hai finalmente deciso di entrare nel mondo futuristico di Alexa? Ottima scelta! Con l'assistente vocale di Amazon, puoi accendere le luci senza alzarti dal divano, ordinare una pizza con un semplice comando vocale e persino fare finta di essere un disc jockey durante una festa improvvisata. In questa guida dettagliata — e con un pizzico di ironia per non annoiarti — ti spiegherò come collegare Alexa a una miriade di dispositivi. Pronto a trasformare la tua casa in un regno tecnologico? Allora cominciamo!

@@ -1,3 +1,6 @@
+---
+slug: /come-collegare-cuffie-sony-bluetooth
+---
 # Come collegare cuffie Sony Bluetooth: il tutorial per domare la tecnologia
 
 Quindi, hai appena acquistato le tue nuove cuffie Sony Bluetooth, pronte a riempire la tua vita di musica e podcast con una qualità audio da urlo. Ma, sorpresa! Il momento di gloria si ferma davanti alla domanda fatidica: *“Come le collego al mio dispositivo?”*. Se anche tu ti trovi a fissare il manuale con la stessa espressione di chi cerca di decifrare i geroglifici egiziani, sei nel posto giusto. Ecco la guida completa per collegare le tue cuffie Sony Bluetooth a qualsiasi cosa — tranne il tostapane (per ora).

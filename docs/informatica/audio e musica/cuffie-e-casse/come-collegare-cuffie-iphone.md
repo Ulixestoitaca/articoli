@@ -1,3 +1,6 @@
+---
+slug: /come-collegare-cuffie-iphone
+---
 # Come collegare cuffie iPhone: la guida definitiva per domare gli auricolari (con un pizzico di umorismo)
 
 Hai finalmente comprato quel paio di cuffie Apple su cui sbavavi da settimane, ma una volta a casa, ti guardano dalla scrivania come per dire: "E ora? Sai cosa fare?". Tranquillo, non sei solo! Collegare le cuffie al tuo iPhone (o ad altri dispositivi) è un gioco da ragazzi, a patto che tu sappia quali tasti magici premere. Ecco la guida dettagliata e un po' scanzonata per farti diventare un vero maestro delle cuffie Apple.
