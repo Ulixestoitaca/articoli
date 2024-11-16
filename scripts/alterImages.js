@@ -62,7 +62,7 @@ async function processImage(filePath) {
         console.log(`Dimensioni originali per ${filePath}:`, metadata.width, 'x', metadata.height);
 
         // Ridimensiona l'immagine se la larghezza è maggiore di 610 px
-        if (metadata.width > 610) {
+        if (metadata.width != 610) {
             image.resize({ width: 610 });
             console.log(`Immagine ridimensionata a 610 px di larghezza per: ${filePath}`);
         }

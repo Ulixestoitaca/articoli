@@ -40,9 +40,9 @@
   font-weight: normal;
 }
 
-img[src*="/guide-img/output/"] {
-  width: 610px !important; /* Forza la larghezza a 610px */
-  height: auto !important; /* Mantiene le proporzioni */
+img[src*="/articoli/assets/images/"] {
+    max-width: 100%; /* Si adatta al contenitore, mantenendo le dimensioni intrinseche */
+    height: auto; /* Mantiene le proporzioni */
 }
 
 .custom-logo {
