@@ -82,6 +82,12 @@ const config = {
           position: 'left',
           label: 'Informatica',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'localita',
+          position: 'left',
+          label: 'Località Italiane',
+        },		
       ],
     },
     footer: {

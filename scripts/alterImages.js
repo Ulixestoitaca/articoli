@@ -3,8 +3,8 @@ import path from 'path';
 import fs from 'fs/promises';
 
 // Percorsi delle cartelle
-const inputDir = 'static/guide-img';
-const outputDir = 'static/guide-img/output';
+const inputDir = 'C:/articoli/static/guide-img';
+const outputDir = 'C:/articoli/static/guide-img/output';
 
 // Crea la cartella di output, se non esiste
 async function ensureOutputDir() {
