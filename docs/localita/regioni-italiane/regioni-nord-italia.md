@@ -25,6 +25,10 @@ Oltre alla cucina, questa regione è nota per le sue eccellenze nel settore moto
 
 Se vuoi immergerti in tutto ciò che questa terra ha da offrire, visita la pagina dedicata alla [Regione Emilia-Romagna](https://www.impresaitalia.info/regione/emiliaromagna.aspx).
 
+### Le città minori
+
+L'Emiliaromagna vanta splendide piccole città meno note di Bologna ma certo non inferiori per tradizioni e storia. Le [città minori dell'emilia romagna](/articoli/citta-dell-emilia-romagna/) sono un segreto da scoprire ed un'avventura da vivere, seguite i nostri suggerimenti per trarre il meglio dal vostro soggiorno emiliano!
+
 ---
 
 ## Friuli-Venezia Giulia: Un Crocevia di Culture
@@ -81,6 +85,10 @@ Ma la Lombardia non si limita a Milano: i laghi di Como Garda e Maggiore sono me
 
 Ogni angolo di questa regione racconta una storia di tradizione e progresso. Per approfondire dai un’occhiata a [Regione Lombardia](https://www.impresaitalia.info/regione/lombardia.aspx).
 
+### I gioielli segreti della Lombardia
+
+Lombardia non significa solo Milano ma ci sono tantissime altre [città lombarde](/articoli/citta-della-lombardia/) sorprendenti e degne di essere visitate.
+
 ---
 
 ## Marche: Una Terra di Contrasti
@@ -118,6 +126,10 @@ Le Langhe sono famose non solo per i loro vini ma anche per la loro cucina ricca
 Scopri di più su questa affascinante regione visitando [Regione Piemonte](https://www.impresaitalia.info/regione/piemonte.aspx).
 
 ![Paesaggi del Piemonte](/guide-img/output/73.jpg)
+
+### Le tante sorprese del Piemonte
+
+Il piemonte è costellato di città poco conosciute ma ricche di storia di eventi e di curiosità, se sei interessato ad approfondire la tua conoscenza delle [città piemontesi](/articoli/citta-del-piemonte/) sei nel posto giusto per ottenere tanti dettagli appassionanti!
 
 ---
 
@@ -168,6 +180,10 @@ Verona invece incanta con la sua storia romantica legata a Romeo e Giulietta; no
 I vini veneti come l’Amarone ed il Prosecco completano l’offerta gastronomica regionale rendendo ogni pasto un’esperienza memorabile da condividere con amici o familiari attorno ad un tavolo imbandito con prodotti tipici locali.
 
 Scopri di più su [Regione Veneto](https://www.impresaitalia.info/regione/veneto.aspx).
+
+### Le altre città venete
+
+Oltre alle già citate città il Veneto nasconde una serie di gioielli, sono le [città minori del veneto](/articoli/citta-del-veneto/) vere e proprie perle incastonate in una atmosfera unica e sognante. Costruisci il tuo itinerario per visitare in modo completo e organico questa regione dal fascino strepitoso.
 
 ---
 
