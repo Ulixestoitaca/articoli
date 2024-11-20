@@ -61,7 +61,11 @@ Siena, con la sua piazza del Campo a forma di conchiglia, ospita il Palio, una c
 
 Oltre all’arte e alla storia, questa regione è sinonimo di eccellenza enogastronomica. Il vino Chianti e l’olio extravergine di oliva sono solo due dei tanti motivi per visitare questa terra. Le trattorie locali offrono piatti tipici come la pappa al pomodoro e la ribollita.
 
-Scopri la Toscana in tutte le sue sfumature su [Regione Toscana](https://www.impresaitalia.info/regione/toscana.aspx).
+Scopri la Toscana in tutte le sue sfumature su [Regione Toscana](https://www.impresaitalia.info/regione/toscana.aspx).     
+
+### ALtre città delle Toscana
+
+ci sono molte [città piu piccole](/articoli/citta-della-toscana/) ma molto interessanti e ricche di storia. Sicuramente bisogna tenerle in considerazione nel momento in cui si progetta un tour completo ed approfondito di questa regione che non finisce di regalare perle di bellezza.
 
 ---
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "citta della toscana",
+    "text": "Esplorando la Toscana: Arte, Storia e Paesaggi da Cartolina La Toscana è una terra che ha ispirato artisti, poeti e viaggiatori per secoli. Con le sue colline ondulate, i borghi...",
+    "link": "/articoli/citta-della-toscana/"
+  },
+  {
+    "title": "regioni nord italia",
+    "text": "Regioni del Nord Italia: Un Viaggio tra Paesaggi, Tradizioni e Innovazione Il Nord Italia è una sinfonia di paesaggi spettacolari, tradizioni profonde e modernità avvolgente. Ogni regione offre qualcosa di...",
+    "link": "/articoli/regioni-nord-italia/"
+  },
+  {
     "title": "citta dell emilia romagna",
     "text": "Alla Scoperta delle Principali Città dell'Emilia-Romagna: Tradizione, Storia e Sapori Inconfondibili L’Emilia-Romagna è una regione che incarna l’essenza dell’Italia, unendo cultura, gastronomia e paesaggi straordinari. Le sue città sono un...",
     "link": "/articoli/citta-dell-emilia-romagna/"
@@ -8,11 +18,6 @@
     "title": "citta del veneto",
     "text": "Alla Scoperta delle Città Venete e delle loro curiosità Il Veneto è una regione che incanta e sorprende, un luogo dove la storia si intreccia con l'arte e la natura...",
     "link": "/articoli/citta-del-veneto/"
-  },
-  {
-    "title": "regioni nord italia",
-    "text": "Regioni del Nord Italia: Un Viaggio tra Paesaggi, Tradizioni e Innovazione Il Nord Italia è una sinfonia di paesaggi spettacolari, tradizioni profonde e modernità avvolgente. Ogni regione offre qualcosa di...",
-    "link": "/articoli/regioni-nord-italia/"
   },
   {
     "title": "citta della lombardia",
@@ -38,10 +43,5 @@
     "title": "dentisti sud italia",
     "text": "Dentisti nel Sud Italia: Sorrisi Radiosi tra Tradizione e Innovazione Il Sud Italia, con la sua ricca eredità culturale e paesaggistica, è una terra dove il sorriso è parte integrante...",
     "link": "/articoli/dentisti-sud-italia/"
-  },
-  {
-    "title": "dentisti nord italia",
-    "text": "Dentisti nel Nord Italia: Eccellenza e Innovazione per un Sorriso Perfetto Il Nord Italia è sinonimo di qualità e professionalità in ogni settore, e il mondo dell’odontoiatria non fa eccezione....",
-    "link": "/articoli/dentisti-nord-italia/"
   }
 ]
