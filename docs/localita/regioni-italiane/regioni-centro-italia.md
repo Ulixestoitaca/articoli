@@ -5,7 +5,7 @@ slug: /regioni-centro-italia
 
 Il Centro Italia è una terra che racchiude l’essenza stessa del nostro Paese: storia millenaria, paesaggi mozzafiato e una cultura che si manifesta in ogni angolo, dalle città d’arte ai borghi arroccati. Scopriamo insieme le meraviglie delle sue regioni, un viaggio attraverso i cuori pulsanti dell’Italia che non smettono mai di incantare.
 
-![Colline del Centro Italia](/guide-img/output/74.jpg)
+![Colline del Centro Italia](/guide-img/output/3000.jpg)
 
 ---
 
