@@ -1,8 +1,33 @@
 [
   {
+    "title": "citta del trentino alto adige",
+    "text": "Alla Scoperta del Trentino-Alto Adige: Natura, Cultura e Tradizioni Il Trentino-Alto Adige è una regione che incanta con i suoi paesaggi montani, i suoi borghi pittoreschi e una cultura che...",
+    "link": "/articoli/citta-del-trentino-alto-adige/"
+  },
+  {
+    "title": "regioni sud italia",
+    "text": "Sud Italia: Terra di Contrasti, Calore e Infinita Bellezza Il Sud Italia non è solo una destinazione: è un’esperienza che ti avvolge, ti accoglie e ti fa sentire parte di...",
+    "link": "/articoli/regioni-sud-italia/"
+  },
+  {
+    "title": "citta della sicilia",
+    "text": "Scoprendo la Sicilia: L’Isola del Sole e della Storia La Sicilia, l'isola più grande del Mediterraneo, è un luogo unico che racchiude in sé millenni di storia, una natura mozzafiato...",
+    "link": "/articoli/citta-della-sicilia/"
+  },
+  {
+    "title": "citta della campania",
+    "text": "Scoprendo la Campania: Cultura, Tradizione e Paesaggi Mozzafiato La Campania è una terra di straordinaria bellezza e cultura, dove il mare incontra la storia e la cucina diventa arte. Con...",
+    "link": "/articoli/citta-della-campania/"
+  },
+  {
     "title": "regioni centro italia",
     "text": "Regioni del Centro Italia: Bellezze Naturali, Arte e Tradizioni senza Tempo Il Centro Italia è una terra che racchiude l’essenza stessa del nostro Paese: storia millenaria, paesaggi mozzafiato e una...",
     "link": "/articoli/regioni-centro-italia/"
+  },
+  {
+    "title": "citta del lazio",
+    "text": "Esplorando il Lazio: Storia Millenaria e Tesori Nascosti Il Lazio è una regione che racchiude l’essenza della storia e della cultura italiana. Dominata dalla Città Eterna, ma arricchita da borghi...",
+    "link": "/articoli/citta-del-lazio/"
   },
   {
     "title": "citta della toscana",
@@ -18,30 +43,5 @@
     "title": "citta dell emilia romagna",
     "text": "Alla Scoperta delle Principali Città dell'Emilia-Romagna: Tradizione, Storia e Sapori Inconfondibili L’Emilia-Romagna è una regione che incarna l’essenza dell’Italia, unendo cultura, gastronomia e paesaggi straordinari. Le sue città sono un...",
     "link": "/articoli/citta-dell-emilia-romagna/"
-  },
-  {
-    "title": "citta del veneto",
-    "text": "Alla Scoperta delle Città Venete e delle loro curiosità Il Veneto è una regione che incanta e sorprende, un luogo dove la storia si intreccia con l'arte e la natura...",
-    "link": "/articoli/citta-del-veneto/"
-  },
-  {
-    "title": "citta della lombardia",
-    "text": "Le Principali Città della Lombardia: Innovazione, Storia e Bellezze Naturali La Lombardia, cuore economico e culturale d’Italia, è una regione che sorprende per la sua varietà. Dalle metropoli pulsanti di...",
-    "link": "/articoli/citta-della-lombardia/"
-  },
-  {
-    "title": "citta del piemonte",
-    "text": "Alla Scoperta delle Principali Città del Piemonte: Eleganza, Storia e Innovazione Il Piemonte è una regione che incarna una straordinaria varietà di paesaggi e culture. Con le sue maestose montagne,...",
-    "link": "/articoli/citta-del-piemonte/"
-  },
-  {
-    "title": "regioni sud italia",
-    "text": "Sud Italia: Terra di Contrasti, Calore e Infinita Bellezza Il Sud Italia non è solo una destinazione: è un’esperienza che ti avvolge, ti accoglie e ti fa sentire parte di...",
-    "link": "/articoli/regioni-sud-italia/"
-  },
-  {
-    "title": "dentisti sud italia",
-    "text": "Dentisti nel Sud Italia: Sorrisi Radiosi tra Tradizione e Innovazione Il Sud Italia, con la sua ricca eredità culturale e paesaggistica, è una terra dove il sorriso è parte integrante...",
-    "link": "/articoli/dentisti-sud-italia/"
   }
 ]

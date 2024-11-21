@@ -19,6 +19,8 @@ Napoli è un crocevia di culture e tradizioni. Il suo centro storico è stato di
 
 La pizza napoletana è un'arte; preparata con ingredienti freschi e di alta qualità, rappresenta un simbolo della tradizione culinaria locale. I pizzerie storiche come Sorbillo e Da Michele sono tappe obbligate per chiunque visiti la città.
 
+Ma ci sono [importanti città minori](/articoli/citta-della-campania) in campania, vediamo quali nello specifico.
+
 ### Costiera Amalfitana
 
 Oltre Napoli, la Campania offre gioielli come la Costiera Amalfitana, dove ogni curva della strada rivela un panorama che sembra dipinto da un artista. Amalfi, Positano e Ravello sono borghi che sfidano la gravità, aggrappati alle scogliere e ognuno ha un carattere unico.
@@ -118,6 +120,10 @@ La cucina siciliana rappresenta una celebrazione dei sapori mediterranei; piatti
 Scopri tutto sulla Sicilia su [Regione Sicilia](https://www.impresaitalia.info/regione/sicilia.aspx).
 
 ![Gennargentu in Sardegna](/guide-img/output/83.jpg)
+
+#### Altre città in sicilia
+
+M la Sicilia non è solo le bellezze che abbiamo già elencato, sono innumerevoli le [altre città siciliane](/articoli/citta-della-sicilia) a cui dare una occhiata nel corso del vostro viaggio siculo. Aggiungetele, dunque, al vostro itinerario e non ve ne pentirete !
 
 ---
 

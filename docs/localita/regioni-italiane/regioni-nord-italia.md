@@ -149,6 +149,10 @@ Questa regione è anche famosa per i suoi vini bianchi come il Gewürztraminer; 
 
 Per saperne di più visita [Regione Trentino-Alto Adige](https://www.impresaitalia.info/regione/trentino.aspx).
 
+#### Altre città del trentino
+
+Ci sono molte [altre città del trentino](/articoli/citta-del-trentino-alto-adige/) che vale la pena di approfondire al fine di visitarle e apprenderne la storia millenaria.
+
 ---
 
 ## Valle d’Aosta: Un Angolo di Paradiso

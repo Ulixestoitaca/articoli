@@ -45,6 +45,10 @@ Scopri tutti i tesori della regione su [Regione Lazio](https://www.impresaitalia
 
 ![Panorami del Lazio](/guide-img/output/75.jpg)
 
+### Altre città del lazio
+
+Il lazio nasconde tante gemme preziose da scoprire , sono infatti tante le [città laziali minori](/articoli/citta-del-lazio/) che meritano una visita e tanti approfondimenti culturali. Tra tutte citiamo Tivoli e Rieti, capolavori assoluti di magnificenza.
+
 ---
 
 ## Toscana: L’Armonia Perfetta
