@@ -1,5 +1,20 @@
 [
   {
+    "title": "citta del friuli",
+    "text": "Esplorando il Friuli-Venezia Giulia: Tra Cultura Mitteleuropea e Paesaggi Incantevoli Il Friuli-Venezia Giulia è una regione affascinante e multiforme, dove la cultura italiana si mescola con le influenze mitteleuropee e...",
+    "link": "/articoli/citta-del-friuli/"
+  },
+  {
+    "title": "regioni nord italia",
+    "text": "Regioni del Nord Italia: Un Viaggio tra Paesaggi, Tradizioni e Innovazione Il Nord Italia è una sinfonia di paesaggi spettacolari, tradizioni profonde e modernità avvolgente. Ogni regione offre qualcosa di...",
+    "link": "/articoli/regioni-nord-italia/"
+  },
+  {
+    "title": "citta delle marche",
+    "text": "Alla Scoperta delle Marche: Storia, Cultura e Bellezze Naturali Le Marche sono una regione che affascina per la loro autenticità e diversità. Con città ricche di storia, paesaggi mozzafiato e...",
+    "link": "/articoli/citta-delle-marche/"
+  },
+  {
     "title": "citta del trentino alto adige",
     "text": "Alla Scoperta del Trentino-Alto Adige: Natura, Cultura e Tradizioni Il Trentino-Alto Adige è una regione che incanta con i suoi paesaggi montani, i suoi borghi pittoreschi e una cultura che...",
     "link": "/articoli/citta-del-trentino-alto-adige/"
@@ -28,20 +43,5 @@
     "title": "citta del lazio",
     "text": "Esplorando il Lazio: Storia Millenaria e Tesori Nascosti Il Lazio è una regione che racchiude l’essenza della storia e della cultura italiana. Dominata dalla Città Eterna, ma arricchita da borghi...",
     "link": "/articoli/citta-del-lazio/"
-  },
-  {
-    "title": "citta della toscana",
-    "text": "Esplorando la Toscana: Arte, Storia e Paesaggi da Cartolina La Toscana è una terra che ha ispirato artisti, poeti e viaggiatori per secoli. Con le sue colline ondulate, i borghi...",
-    "link": "/articoli/citta-della-toscana/"
-  },
-  {
-    "title": "regioni nord italia",
-    "text": "Regioni del Nord Italia: Un Viaggio tra Paesaggi, Tradizioni e Innovazione Il Nord Italia è una sinfonia di paesaggi spettacolari, tradizioni profonde e modernità avvolgente. Ogni regione offre qualcosa di...",
-    "link": "/articoli/regioni-nord-italia/"
-  },
-  {
-    "title": "citta dell emilia romagna",
-    "text": "Alla Scoperta delle Principali Città dell'Emilia-Romagna: Tradizione, Storia e Sapori Inconfondibili L’Emilia-Romagna è una regione che incarna l’essenza dell’Italia, unendo cultura, gastronomia e paesaggi straordinari. Le sue città sono un...",
-    "link": "/articoli/citta-dell-emilia-romagna/"
   }
 ]

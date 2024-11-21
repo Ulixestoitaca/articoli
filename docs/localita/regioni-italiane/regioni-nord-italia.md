@@ -47,6 +47,10 @@ La regione è rinomata per i suoi vini bianchi freschi e aromatici; il Pinot Gri
 
 Scoprire questa regione significa immergersi in un mosaico di tradizioni e innovazioni. Per maggiori dettagli, consulta la sezione su [Friuli-Venezia Giulia](https://www.impresaitalia.info/regione/friuli.aspx).
 
+#### Altre meraviglie del friuli
+
+Non solo Udine, il Friuli è tante [altre città](/articoli/citta-del-friuli/) come Gorizia, Pordenone,Aquileia e tante altre da non perdere e inserire assolutamente all'interno di un itinerario di viaggio.
+
 ---
 
 ## Liguria: Dove il Mare Sposa la Montagna
@@ -106,6 +110,10 @@ Le colline marchigiane punteggiate da borghi medievali offrono panorami mozzafia
 La tradizione vinicola della regione con vini come il Verdicchio e il Rosso Conero è un’ulteriore ragione per visitarla. Le cantine marchigiane offrono tour degustativi dove si possono apprezzare i sapori autentici della terra.
 
 Scopri di più su questa terra sorprendente su [Regione Marche](https://www.impresaitalia.info/regione/marche.aspx).
+
+#### Le città minori
+
+Le Marche non sono solo spiegge o le meravigliose architetture urbinate ma anche segreti da scoprire e meraviglie nascoste come le [città minori](/articoli/citta-delle-marche), organizza un tour alla ricerca delle perle marchigiane che nessuno conosce
 
 ---
 
