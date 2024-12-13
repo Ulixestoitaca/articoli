@@ -16,10 +16,10 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.6.1",
-    "@docusaurus/faster": "^3.6.1",
-    "@docusaurus/plugin-content-docs": "^3.6.1",
-    "@docusaurus/preset-classic": "^3.6.1",
+    "@docusaurus/core": "^3.6.3",
+    "@docusaurus/faster": "^3.6.3",
+    "@docusaurus/plugin-content-docs": "^3.6.3",
+    "@docusaurus/preset-classic": "^3.6.3",
     "@mdx-js/react": "^3.0.0",
     "axios": "^1.7.7",
     "cheerio": "^1.0.0",
@@ -39,8 +39,8 @@
     "xpath": "^0.0.34"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.6.1",
-    "@docusaurus/types": "^3.6.1",
+    "@docusaurus/module-type-aliases": "^3.6.3",
+    "@docusaurus/types": "^3.6.3",
     "nodemon": "^3.1.7",
     "webpack-bundle-analyzer": "^4.10.2"
   },
