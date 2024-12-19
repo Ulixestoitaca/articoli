@@ -38,8 +38,7 @@ async function processImage(filePath) {
     // Controllo esistenza output finale
     try {
         await fs.access(outputPath);
-        //console.log(`File già esistente, saltato: ${outputPath}`);
-        return;
+        return; // Il file esiste già, salta l'elaborazione
     } catch {
         // Il file non esiste, procediamo con l'elaborazione
     }
@@ -61,10 +60,18 @@ async function processImage(filePath) {
         const metadata = await image.metadata();
         console.log(`Dimensioni originali per ${filePath}:`, metadata.width, 'x', metadata.height);
 
-        // Ridimensiona l'immagine se la larghezza è maggiore di 610 px
-        if (metadata.width != 610) {
-            image.resize({ width: 610 });
-            console.log(`Immagine ridimensionata a 610 px di larghezza per: ${filePath}`);
+        // Determina la larghezza in base al prefisso del nome file
+        const baseName = path.basename(filePath);
+        let width = 610;
+        if (baseName.startsWith('hp-')) {
+            width = 100; // Se inizia con "hp-", ridimensiona a 100px di larghezza
+            console.log(`Immagine con prefisso "hp-": ridimensionamento a ${width}px.`);
+        }
+
+        // Ridimensiona l'immagine solo se necessario
+        if (metadata.width !== width) {
+            image.resize({ width });
+            console.log(`Immagine ridimensionata a ${width}px di larghezza per: ${filePath}`);
         }
 
         // Salva l'immagine finale con inversione dei colori

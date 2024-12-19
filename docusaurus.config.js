@@ -88,6 +88,12 @@ const config = {
           position: 'left',
           label: 'Località Italiane',
         },		
+        {
+          type: 'docSidebar',
+          sidebarId: 'lavoro',
+          position: 'left',
+          label: 'Finanza e lavoro',
+        },			
       ],
     },
     footer: {
