@@ -64,7 +64,7 @@ async function processImage(filePath) {
         const baseName = path.basename(filePath);
         let width = 610;
         if (baseName.startsWith('hp-')) {
-            width = 100; // Se inizia con "hp-", ridimensiona a 100px di larghezza
+            width = 200; // Se inizia con "hp-", ridimensiona a 100px di larghezza
             console.log(`Immagine con prefisso "hp-": ridimensionamento a ${width}px.`);
         }
 
