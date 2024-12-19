@@ -95,7 +95,7 @@ function generateRecentDocsData() {
   });
 
   // Limita ai primi 30 file e crea i record
-  const filesToProcess = sortedFiles.slice(0, 30);
+  const filesToProcess = sortedFiles.slice(0, 36);
   for (const filePath of filesToProcess) {
     const title = path.basename(filePath, path.extname(filePath))
       .replace(/[-_]/g, ' ') // Sostituisce "-" e "_" con spazi
