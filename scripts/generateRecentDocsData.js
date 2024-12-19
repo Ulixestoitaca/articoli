@@ -53,29 +53,30 @@ function getFirstImage(docPath) {
 
 // Funzione per copiare e rinominare un'immagine
 function copyAndRenameImage(imagePath, outputDir, newFileName) {
-  try {
-    if (!fs.existsSync(outputDir)) {
-      fs.mkdirSync(outputDir, { recursive: true });
-    }
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
 
-    const outputFilePath = path.join(outputDir, newFileName);
+  const outputFilePath = path.join(outputDir, newFileName);
 
-    // Controlla se il file rinominato esiste già
-    if (fs.existsSync(outputFilePath)) {
-      console.log(`Il file rinominato esiste già: ${outputFilePath}`);
-      return outputFilePath;
-    }
-
-    // Copia l'immagine
-    sharp(imagePath).toFile(outputFilePath, (err, info) => {
-      if (err) {
-        console.error(`Errore nella copia dell'immagine: ${imagePath}`, err);
-      }
-    });
-
+  // Controlla se il file rinominato esiste già
+  if (fs.existsSync(outputFilePath)) {
+    console.log(`Il file rinominato esiste già: ${outputFilePath}`);
     return outputFilePath;
-  } catch (error) {
-    console.error(`Errore nella copia dell'immagine: ${imagePath}`, error);
+  }
+
+  // Controlla se il file originale esiste
+  if (!fs.existsSync(imagePath)) {
+    console.error(`Il file immagine originale non esiste: ${imagePath}`);
+    return null;
+  }
+
+  // Copia l'immagine
+  try {
+    sharp(imagePath).toFile(outputFilePath);
+    return outputFilePath;
+  } catch (err) {
+    console.error(`Errore nella copia dell'immagine: ${imagePath}`, err);
     return null;
   }
 }
@@ -114,10 +115,9 @@ function generateRecentDocsData() {
       const originalImagePath = path.join(baseImageDir, firstImageName);
       const newImageName = `hp-${firstImageName}`;
 
-      // Copia e rinomina l'immagine nella stessa directory
-      copyAndRenameImage(originalImagePath, baseImageDir, newImageName);
-
-      imgPath = `https://www.impresaitalia.info/articoli/static/guide-img/output/${newImageName}`;
+      // Prova a copiare e rinominare l'immagine
+      const copiedImagePath = copyAndRenameImage(originalImagePath, baseImageDir, newImageName);
+      imgPath = copiedImagePath ? `https://www.impresaitalia.info/articoli/static/guide-img/output/${newImageName}` : null;
     } else {
       console.error(`Immagine non trovata o percorso errato: ${firstImageName}`);
     }
