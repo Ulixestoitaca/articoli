@@ -66,7 +66,7 @@ function generateRecentDocsData() {
   });
 
   // Limita ai primi 6 file e crea i record
-  const filesToProcess = sortedFiles.slice(0, 25); // Ottieni solo i primi 25 file più recenti
+  const filesToProcess = sortedFiles.slice(0, 30); // Ottieni solo i primi 25 file più recenti
   for (const filePath of filesToProcess) {
     const title = path.basename(filePath, path.extname(filePath))
       .replace(/[-_]/g, ' ') // Sostituisce "-" e "_" con spazi
