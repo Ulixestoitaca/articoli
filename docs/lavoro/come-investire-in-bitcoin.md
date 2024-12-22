@@ -13,17 +13,9 @@ Partiamo dalle basi: il Bitcoin è una valuta digitale, nata nel lontano 2009 gr
 
 ---
 
-![Bitcoin in mani virtuali](/guide-img/output/bitcoin-in-mani.jpg)
-
----
-
 ### Dove si comprano i Bitcoin?
 
 Facile, su piattaforme chiamate exchange! Questi sono come i mercati del pesce, ma senza l'odore e con grafici confusi. Alcuni dei più famosi sono **Binance**, **Coinbase**, e **Kraken**. Per iniziare, basta creare un account, fornire un documento (sì, persino il tuo selfie con il passaporto), e sei pronto per acquistare il tuo primo Bitcoin, o più probabilmente una frazione di esso, visto che costa quanto un piccolo appartamento.
-
----
-
-![App di exchange su smartphone](/guide-img/output/app-exchange.jpg)
 
 ---
 
@@ -33,9 +25,6 @@ Non vorrai certo tenere i tuoi preziosi Bitcoin sotto il materasso, vero? Per qu
 
 ---
 
-![Cold wallet](/guide-img/output/cold-wallet.jpg)
-
----
 
 ### Bitcoin: investimento o scommessa?
 
@@ -43,17 +32,9 @@ E ora, la grande domanda: investire in Bitcoin è un'idea geniale o solo un modo
 
 ---
 
-![Grafico Bitcoin in crescita](/guide-img/output/bitcoin-grafico.jpg)
-
----
-
 ### Le tasse sui Bitcoin: perché sì, esistono!
 
 Pensavi di sfuggire al fisco? Peccato, perché anche i Bitcoin rientrano nei radar dell’Agenzia delle Entrate. Ogni volta che vendi i tuoi Bitcoin, potresti dover pagare una tassa sulle plusvalenze (se hai guadagnato, ovviamente). La buona notizia? Tenendo traccia delle operazioni, puoi dormire sonni tranquilli senza sogni di ispettori fiscali.
-
----
-
-![Bitcoin e fisco](/guide-img/output/bitcoin-fisco.jpg)
 
 ---
 
