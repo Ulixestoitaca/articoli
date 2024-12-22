@@ -7,10 +7,6 @@ Ah, il Bitcoin, la misteriosa criptovaluta che ha trasformato zii impacciati in 
 
 ---
 
-![Bitcoin Logo](/guide-img/output/bitcoin-logo.jpg)
-
----
-
 ### Cos’è il Bitcoin?
 
 Partiamo dalle basi: il Bitcoin è una valuta digitale, nata nel lontano 2009 grazie a un certo Satoshi Nakamoto (probabilmente non il nome del tuo vicino di casa). Si tratta di una moneta completamente virtuale, senza banche a fare da intermediari e con un valore che può cambiare più rapidamente delle tue emozioni quando guardi una serie TV. 
