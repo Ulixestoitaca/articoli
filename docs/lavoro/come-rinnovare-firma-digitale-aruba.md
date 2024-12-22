@@ -60,8 +60,6 @@ Hai perso l’OTP? Niente panico, puoi sempre riconfigurarlo tramite il Selfcare
 
 ## Non riesci a rinnovare? Niente paura!
 
-![Non riesco a rinnovare la Firma Digitale Aruba](/guide-img/output/832419a1.jpg)
-
 La tecnologia a volte sembra avere vita propria e potrebbe decidere di farti sudare freddo proprio nel momento clou. Se non riesci a rinnovare, ecco qualche possibile causa (e soluzione):
 
 - **Connessione Internet assente**: controlla il WiFi e assicurati che funzioni.
