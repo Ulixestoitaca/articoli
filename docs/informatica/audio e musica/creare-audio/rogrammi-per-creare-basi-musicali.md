@@ -1,5 +1,5 @@
 ---
-slug: /rogrammi-per-creare-basi-musicali
+slug: /programmi-per-creare-basi-musicali
 ---
 # Programmi per creare basi musicali: la guida definitiva per trasformarti nel produttore del tuo quartiere
 

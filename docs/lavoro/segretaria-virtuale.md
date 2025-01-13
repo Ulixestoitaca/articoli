@@ -1,9 +1,6 @@
 ---
 slug: /segretaria-virtuale
 ---
-```markdown
-segretaria-virtuale.md
-```
 
 # Segretaria virtuale
 

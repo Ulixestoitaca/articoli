@@ -3,64 +3,73 @@ slug: /come-estrarre-laudio-da-un-video
 ---
 # Come Estrarre l’Audio da un Video
 
-Immagina questa scena: hai scaricato un video che contiene la tua colonna sonora preferita o un'intervista particolarmente interessante e, mentre lo ascolti, ti chiedi se non sarebbe fantastico avere solo l’audio per godertelo ovunque, senza bisogno di dover riprodurre tutto il video. Ottima idea, vero? Ma come si fa? Estrarre l’audio da un video non è una missione impossibile, anzi, con un po' di pazienza e gli strumenti giusti, può diventare un’operazione semplicissima. In questa guida scoprirai tutti i metodi più efficaci per estrarre l’audio da un video, utilizzando il computer, servizi online e persino il tuo cellulare. Tutto questo senza per forza essere esperti in tecnologia, e con un pizzico di divertimento nel scoprire ogni trucco e segreto.
+Udite, udite! Calatevi nei panni di un sapiente alchimista moderno, intento a separare l'essenza sonora dal flusso visivo. Immaginate di aver scoperto un video colmo di armonie celestiali o saggezze inestimabili, e vi siete proposti d'isolarne il solo audio. Questa non è opera di stregoneria, bensì un'arte nobile e accessibile. Qui narreremo le vie possibili per compiere tale impresa su macchine calcolatrici, dispositivi magici portatili e persino con l'ausilio di portali eterei. Prepariamoci dunque a un'avventura lunga e articolata, costellata di strumenti tanto potenti quanto affascinanti.
 
-## Estrarre l’Audio da un Video su PC
+## L'Arte dell'Estrazione Sonora su Macchine Calcolatrici
 
-Quando si tratta di estrarre l’audio da un video su computer, non temere: esistono programmi molto facili da usare e spesso gratuiti. Ecco le migliori opzioni da considerare su Windows, macOS e Linux, tutte valide e pronte a darti una mano. Non devi fare altro che scegliere quella che ti ispira di più.
+Il primo sentiero si dispiega tra le lande delle macchine che chiamiamo computer. Questi leviatani di logica possono essere addestrati a distillare l'audio dai video con strumenti mirabolanti. 
 
-### Estrazione dell’Audio con Adapter
+### Adapter, l'Alchimista Universale
 
-Iniziamo con **Adapter**, un programma tuttofare che può aiutarti a convertire, comprimere e, ovviamente, estrarre l’audio dai tuoi video preferiti. Adapter è gratuito e disponibile per tutti i sistemi operativi principali, incluso Windows e macOS. Grazie alla sua interfaccia semplice, è adatto anche a chi non ha molta dimestichezza con questi strumenti.
+Oh, **Adapter**, creatura versatile! Questo strumento è un incantatore capace di trasformare video in audio, compresso o meno, con una semplicità disarmante. Adapter dimora in tutti i regni principali: Windows, macOS e Linux. Il suo utilizzo è cosa semplice anche per gli apprendisti.
 
-Per installarlo, collegati al [sito ufficiale di Adapter](https://macroplant.com/adapter) e scarica il programma adatto al tuo sistema operativo. Una volta completata l’installazione, apri il programma, seleziona il file video da cui vuoi estrarre l’audio e scegli l’opzione per convertire il video in un formato audio, come MP3. Hai anche la possibilità di personalizzare l’audio, modificando qualità, bitrate e altri dettagli.
-
-E voilà, con un semplice clic su “Convert”, Adapter farà tutto il lavoro per te. Una volta completato il processo, troverai il file audio nella stessa cartella in cui si trova il video originale. È possibile anche specificare una cartella diversa se lo desideri. Il bello di Adapter è che è affidabile, semplice e non richiede molte spiegazioni, tanto è intuitivo.
+1. Viaggiate al [sito ufficiale di Adapter](https://macroplant.com/adapter).
+2. Ottenete il programma e installatelo seguendo i passaggi del magico rito.
+3. Evocate il file video desiderato e specificate il formato audio in cui desiderate trasmutarlo, ad esempio MP3.
+4. Cliccate sull’icona arcana "Convert". Ecco che, come un moderno mago, Adapter compie il prodigio e deposita il file audio nella cartella prescelta.
 
 ![Adapter](/guide-img/output/c365fd35.jpg)
 
-### Estrarre l’Audio con VLC
+### VLC: Lo Strumento dei Sapienti
 
-Un’altra soluzione fantastica per estrarre l’audio dai tuoi video è **VLC Media Player**. Molto probabilmente hai già sentito parlare di VLC: è uno dei player multimediali più utilizzati al mondo e ha una caratteristica interessante, ovvero la possibilità di convertire e modificare file audio e video. VLC è gratuito e disponibile per ogni sistema operativo.
+Ma se Adapter fosse l'apprendista, **VLC Media Player** è il mago veterano, onnipresente e colmo di segreti. Questo strumento non solo riproduce ogni formato concepibile, ma consente anche l’estrazione dell’audio.
 
-Dopo aver installato VLC dal sito ufficiale, apri il programma e vai su **Media > Converti/Salva**. Qui puoi selezionare il video dal quale vuoi estrarre l’audio. Cliccando su “Converti”, si apre una schermata dove puoi scegliere il formato di output per l’audio, come MP3 o AAC. Una volta impostate le preferenze, seleziona la destinazione del file e premi “Avvia”. VLC inizierà a estrarre l’audio dal video e in pochi minuti avrai il tuo file audio pronto da ascoltare o condividere.
+1. Ottenete VLC dal [sito ufficiale](https://www.videolan.org/vlc/).
+2. Aprite il programma e seguite il cammino: **Media > Converti/Salva**.
+3. Inserite il video di cui bramate l’audio.
+4. Selezionate il formato audio e premete il pulsante “Avvia”.
 
-Questo programma è l'ideale se stai cercando uno strumento versatile e completo. Puoi usarlo per molte altre operazioni, ma la conversione audio è senza dubbio una delle sue funzioni più utili e rapide.
+Con pochi passi, l’audio puro emergerà, pronto per i vostri piaceri uditivi.
 
 ![VLC](/guide-img/output/26ba6807.jpg)
 
-## Estrarre l’Audio da un Video Online
+## Portali Eterei: L'Estrazione Audio Online
 
-Non vuoi scaricare programmi sul computer? Nessun problema! Esistono anche servizi online che consentono di estrarre l’audio dai video senza bisogno di installare nulla. **Audio Extractor di 123Apps** è uno di questi, ed è sicuramente tra i più facili e immediati da usare.
+Per chi non desidera appesantire la propria macchina con programmi, vi sono portali eterei in grado di compiere il miracolo. Uno dei più noti è il **Audio Extractor di 123Apps**.
 
-Per iniziare, accedi alla pagina di [Audio Extractor](https://audio-extractor.net/it/) e carica il video che vuoi trasformare in audio. A questo punto, il sito ti permette di scegliere il formato di output preferito e, una volta selezionato, basta cliccare su “Estrai audio”. Il file verrà elaborato e potrai scaricarlo in pochi istanti, pronto per essere ascoltato o salvato nel tuo cloud preferito, come Google Drive o Dropbox.
+1. Accedete al sito di [Audio Extractor](https://audio-extractor.net/it/).
+2. Caricate il video.
+3. Scegliete il formato audio desiderato.
+4. Premete “Estrai audio” e attendete che il portale compia il suo lavoro.
 
-Questo strumento è ideale per chi vuole una soluzione rapida e non ha bisogno di convertire file di grandi dimensioni. Ricorda però che ogni servizio online ha dei limiti, ad esempio sul peso massimo del file e la durata della conversione, ma per la maggior parte delle operazioni quotidiane è perfetto.
+Tale soluzione è perfetta per chi cerca rapidità e semplicità.
 
 ![Audio Extractor di 123Apps](/guide-img/output/4dc0bc62.jpg)
 
-## Estrarre l’Audio da un Video su Smartphone
+## L'Incanto dei Dispositivi Magici Portatili
 
-Se preferisci usare lo smartphone, anche in questo caso hai diverse possibilità a disposizione per estrarre l’audio dai tuoi video senza bisogno di un computer. Ecco alcune app per Android e iOS che ti renderanno la vita molto più semplice.
+Gli alchimisti moderni possono operare anche sui dispositivi portatili. Che voi siate adepti del regno di Android o Apple, vi sono app che compiono il miracolo.
 
-### Estrarre l’Audio su Android con MP3 Video Converter
+### MP3 Video Converter per Android
 
-Per chi utilizza Android, una delle app migliori per estrarre l’audio dai video è **MP3 Video Converter**. È gratuita e offre tutte le funzioni essenziali per trasformare i tuoi video in file audio con pochi tocchi. Una volta scaricata dal Google Play Store, basta aprire l’app e selezionare il video da cui vuoi estrarre l’audio.
+Chi maneggia dispositivi Android troverà in **MP3 Video Converter** un fidato alleato.
 
-MP3 Video Converter ti permette di scegliere tra diversi formati audio e di impostare la qualità del file. Puoi anche aggiungere informazioni aggiuntive come artista e titolo. Dopo aver personalizzato le tue impostazioni, premi “Converti” e il gioco è fatto: il file audio sarà pronto in pochi istanti, salvato direttamente sul tuo dispositivo.
+1. Scaricate l’app dal Google Play Store.
+2. Selezionate il video.
+3. Impostate il formato audio e la qualità desiderata.
+4. Premete “Converti” e attendete che la magia faccia il suo corso.
 
 ![MP3 Video Converter](/guide-img/output/dasuhagGGG9.jpg)
 
-### Estrarre l’Audio su iPhone con l’App Comandi
+### I Segreti di Comandi su iOS
 
-Per chi usa iPhone o iPad, c’è un modo interessante per estrarre l’audio dai video usando l’app **Comandi**. Se non la conosci, Comandi è un'app preinstallata su iOS che ti consente di creare automazioni, e include anche strumenti per trasformare i video in file audio. Grazie al comando rapido “Video To Audio”, puoi convertire qualsiasi video in un file audio in pochissimi passaggi.
+I possessori di iPhone possono sfruttare l’app **Comandi** per compiere l’estrazione.
 
-Dopo aver installato il comando tramite [iCloud](https://www.icloud.com/shortcuts/686309bf896f468280e7c83c407bcd24), accedi all’app Comandi, seleziona il video dal tuo rullino e fai partire la conversione. Una volta completato il processo, puoi decidere dove salvare il file o condividerlo direttamente. È un metodo semplice e versatile, perfetto per gli utenti Apple che cercano un’alternativa senza app di terze parti.
+1. Scaricate il comando rapido “Video To Audio” tramite [iCloud](https://www.icloud.com/shortcuts/686309bf896f468280e7c83c407bcd24).
+2. Aprite il comando, selezionate il video dal vostro rullino e avviate la conversione.
 
 ![Comandi iOS](/guide-img/output/e47517ea.jpg)
 
-## Conclusioni
+## Un Epilogo di Sapienza
 
-Ecco qua, tutte le migliori soluzioni per **estrarre l’audio dai video** in modo semplice e veloce. Che tu preferisca usare il computer, affidarti a un servizio online, o lavorare direttamente dal tuo smartphone, ci sono strumenti adatti a ogni esigenza. Ora non resta che scegliere il metodo che fa per te e metterti all’opera. Con questi suggerimenti, avrai a disposizione la tua colonna sonora preferita o le frasi celebri dei tuoi film sempre a portata di mano.
-
-Buona estrazione e buon ascolto!
+Or dunque, chiunque abbia letto queste parole può ora considerarsi un novello maestro dell'arte di estrarre l’audio. Che siate su una macchina calcolatrice, immersi nei meandri del web o muniti di un dispositivo portatile, avete i mezzi per compiere l’impresa. Ricordate: ogni strumento è una chiave e ogni metodo, un sentiero. Che la musica vi accompagni sempre!
