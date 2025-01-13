@@ -24,8 +24,6 @@ Oh, moderno cantore tecnologico, Google si erge quale messagger divino tra te e 
 
 Ecco che apparisce sullo schermo il responso: **nome del brano**, **artista** e, se fortuna ti arride, persino un link per udire nuovamente il pezzo su piattaforme illustri come **YouTube** o **Spotify**.
 
-![Strumento di Google per canzoni](/guide-img/output/aosta-1.jpg)
-
 #### Ulteriori astuzie di Google
 
 Non contento di offrire solo l’assistente vocale, Google si dimostra altrettanto utile attraverso l’app mobile che, una volta aperta, ti permette di premere il microfono, attendere pochi istanti e lasciar che il tuo fido telefono catturi le note del canto.
@@ -44,8 +42,6 @@ Ma se tu fossi tra gli amanti della **mela morsicata**, sappi che Siri, il fedel
 2. Domanda con grazia: “**Che canzone odo, mio caro Siri?**”.
 3. Lascia che l’algoritmo intrecci le onde sonore e sveli l’arcano. Ecco il titolo, ed ecco il maestro compositore, pronti a esser ricordati.
 
-![Riconoscimento di Siri](/guide-img/output/aosta-2.jpg)
-
 #### Cronologia e miracoli aggiunti
 
 Se Siri ti ha incantato, sappi che la sua memoria è lunga: ogni brano riconosciuto può esser richiamato dalla cronologia dell’app **Shazam**, così che nulla vada perduto. Oh, meraviglia moderna!
@@ -62,8 +58,6 @@ Oh viandante del cyberspazio, ti presento il luogo chiamato **Aha-Music**, dove 
 2. Premi l’icona del microfono e concedi l’udito del tuo dispositivo.
 3. Invia le note desiderate al servizio e attendi il responso, che giunge rapido e sicuro.
 
-![Identificare musica con Aha-Music](/guide-img/output/aosta-3.jpg)
-
 ---
 
 ### Shazam, il mago della musica
@@ -75,8 +69,6 @@ Ah, ma non possiamo dimenticare **Shazam**, il nome che rimbomba come eco di leg
 1. Scarica l’app dall’App Store o Play Store.
 2. Apri l’app, premi l’icona centrale e poni il tuo dispositivo vicino alla fonte musicale.
 3. Attendi che il cerchio magico si completi e il mistero sarà svelato.
-
-![Interfaccia di Shazam](/guide-img/output/aosta-4.jpg)
 
 E così, il viaggio termina con Shazam che ti guida nel regno della musica ritrovata. Non c’è brano troppo oscuro o melodia troppo distante per sfuggire al suo incantesimo.
 

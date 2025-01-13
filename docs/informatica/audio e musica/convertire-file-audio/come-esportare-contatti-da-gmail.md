@@ -35,10 +35,6 @@ Quando il tuo lavoro sarà compiuto, cerca il simbolo dei tre puntini sospesi in
 
 ---
 
-![Illustrazione dei contatti su Android](/guide-img/output/Gmail-contatti-android.jpg)
-
----
-
 ## Per gli Utenti del Regno Android: La Via del Palmo
 
 Se il tuo strumento di scelta è un dispositivo Android, il cammino si semplifica. Scarica, se non lo possiedi già, l’app **Contatti** di Google dal [Play Store](https://play.google.com/store/apps/details?id=com.google.android.contacts). Questo strumento è la chiave per aprire il forziere
