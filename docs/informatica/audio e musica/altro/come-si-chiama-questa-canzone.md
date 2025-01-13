@@ -2,112 +2,86 @@
 slug: /come-si-chiama-questa-canzone
 ---
 
+# Com'havvien detto cotal melodia?
 
-# Come si chiama questa canzone?
+O caro lettor, quante volte al finito di un dì o nell'allegro mercato ti fosti trovato a udire una musica soave, un canto seducente che, come brezza su prato fiorito, carezzò le tue orecchie? Certo è che almeno una volta, smarrito nell'estasi del momento, il titolo di tal melodia non ti venne a mente, né l'autore si rivelò al tuo pensier confuso. E qui tu sei, cercando con fervore la risposta a quel medesimo quesito che in tanti sospirano: “Com'havvien nome questa canzone?”.
 
-Quante volte ti è capitato di ascoltare una canzone alla radio, in un negozio o per strada, rimanendo colpito dal brano, senza riuscire però a ricordarne il titolo o il nome dell’artista? Se sei qui, è probabile che tu abbia cercato diverse volte di ottenere la risposta alla domanda “come si chiama questa canzone?”. In questa guida esploreremo diversi metodi, strumenti e app, tutti gratuiti, per riconoscere una canzone usando solo il tuo smartphone, tablet o computer.
+Ebbene, in queste righe andremmo a narrare dei molti modi che oggi la diavoleria tecnologica mette a disposizione per sciogliere questo mistero sonoro. Dal fischiettar la melodia a paroline ricercate su pergamene virtuali, scopriremo come sia divenuto agevole il ritrovar un brano, quasi fosse un gioco.
 
-Grazie alla tecnologia, trovare il titolo di una canzone è diventato facile, accessibile e a portata di clic. Che tu voglia utilizzare una melodia, le parole di un testo o una registrazione audio, ci sono soluzioni per ogni situazione.
+E ora, senza indugi, s'avvii questa esplorazione nelle profondità delle melodie perdute e dei mezzi odierni che con prodigio le richiaman alla luce.
 
-Scopriamo insieme tutte le opzioni disponibili per identificare i brani che ti piacciono, sia tramite l’audio sia tramite il testo, per soddisfare la tua curiosità musicale!
+---
 
+### L'ausilio di Google per l'identificazione musicale
 
-### Come si chiama questa canzone con Google
+Oh, moderno cantore tecnologico, Google si erge quale messagger divino tra te e il mistero musicale. Esso, nei suoi molteplici servigi, ti dona lo **strumento dell’assistente vocale** che con garbo e precisione può discernere il nome di quella canzone che, forse, mai più credevi di riveder.
 
-Una delle opzioni più comode per il riconoscimento musicale è quella offerta da **Google Assistant** sui dispositivi **Android**. Questo assistente è preinstallato sui dispositivi Android e disponibile anche su **iOS/iPadOS** come app separata. Sebbene su iPhone e iPad non supporti il riconoscimento musicale, offre altre utili funzionalità. Vediamo insieme come sfruttare Google Assistant per riconoscere una canzone.
+#### Come servirsene sui congegni Android?
 
-#### Utilizzare Google Assistant su Android
+1. Invoca il servo virtuale dicendo “**OK Google**” o premendo lungamente il bottone del tuo ordigno.
+2. Mormora queste parole: “**Qual è codesta melodia, o Google?**” ed egli, silente e attento, porgerà orecchio.
+3. Sia che la canzone si riproduca intorno a te o che tu ne accenni le note con labbro o fischio, il servo cercherà con zelo la corrispondenza.
 
-Per identificare una canzone tramite Google Assistant sui dispositivi Android:
+Ecco che apparisce sullo schermo il responso: **nome del brano**, **artista** e, se fortuna ti arride, persino un link per udire nuovamente il pezzo su piattaforme illustri come **YouTube** o **Spotify**.
 
-1. Attiva l’assistente con il comando vocale “**OK Google**” o tenendo premuto il pulsante Home.
-2. Chiedi “**Che canzone è questa, Google?**” o una frase simile, e l’assistente capirà di mettersi in ascolto.
-3. Google Assistant inizierà a riconoscere la canzone ascoltando la melodia o l’audio in sottofondo.
+![Strumento di Google per canzoni](/guide-img/output/aosta-1.jpg)
 
-Per utilizzare questa funzione, puoi far ascoltare all’assistente il brano direttamente tramite il tuo telefono, oppure puoi anche canticchiare o fischiettare la melodia: Google cercherà di trovare la corrispondenza più accurata. Se il sistema individua un brano simile, ti fornirà il titolo e l’autore, insieme a eventuali link per ascoltarlo su piattaforme come **YouTube** o **Spotify**.
+#### Ulteriori astuzie di Google
 
-![google riconoscimento brani](/guide-img/output/8d201bf6.jpg)
+Non contento di offrire solo l’assistente vocale, Google si dimostra altrettanto utile attraverso l’app mobile che, una volta aperta, ti permette di premere il microfono, attendere pochi istanti e lasciar che il tuo fido telefono catturi le note del canto.
 
-#### Altri strumenti di riconoscimento musicale di Google
+Con l’opzione “**Cerca una canzone**”, si schiude l’accesso a un mondo di melodie ritrovate, accompagnate da informazioni dettagliate. Ah, prodigioso Google, che dolce conforto offri all’animo inquieto!
 
-Se non desideri usare Google Assistant, un’alternativa pratica è l’app **Google** disponibile per **Android** e **iOS/iPadOS**. Questa app dispone di una funzione integrata di ascolto che facilita il riconoscimento delle canzoni.
+---
 
-1. Apri l’app Google e tocca l’icona del microfono nella barra di ricerca.
-2. Permetti l’accesso al microfono (se richiesto) e seleziona l’opzione **Cerca un brano**.
-3. La funzione si metterà in ascolto, cercando di identificare il brano in riproduzione in sottofondo.
+### Siri, il maestro del riconoscimento tra le vie della mela
 
-Google ti mostrerà una serie di risultati, con il titolo della canzone, l’artista e, talvolta, anche un link a piattaforme musicali. Se trovi una canzone che ti piace, puoi salvarla o aggiungerla alle tue playlist su app come **Spotify** o **YouTube Music**.
+Ma se tu fossi tra gli amanti della **mela morsicata**, sappi che Siri, il fedele servitore d’Apple, non si lascia certo battere in cotanto compito. Con lo spirito di **Shazam** infuso nel suo cuore di silicio, Siri non solo ascolta, ma trascrive il miracolo uditivo in titoli e nomi d’autore.
 
-#### Funzione “Now Playing” per Google Pixel
+#### Come conversare con Siri?
 
-Per chi possiede un dispositivo **Google Pixel**, è disponibile anche una funzione denominata **Now Playing**. Questa opzione, esclusiva dei telefoni Pixel, mantiene il telefono sempre in ascolto, riconoscendo automaticamente le canzoni in riproduzione nei dintorni. Grazie a questa funzionalità, i brani identificati vengono memorizzati nella cronologia, permettendoti di recuperarli in seguito.
+1. Con “**Hey Siri**” richiami la sua attenzione, o se preferisci, premi il bottone del tuo iPhone.
+2. Domanda con grazia: “**Che canzone odo, mio caro Siri?**”.
+3. Lascia che l’algoritmo intrecci le onde sonore e sveli l’arcano. Ecco il titolo, ed ecco il maestro compositore, pronti a esser ricordati.
 
-Tuttavia, è importante considerare che questa funzione tiene il dispositivo in ascolto continuo, il che potrebbe sollevare preoccupazioni in termini di **privacy**. Prima di attivarla, assicurati di valutare le implicazioni per la sicurezza dei tuoi dati.
+![Riconoscimento di Siri](/guide-img/output/aosta-2.jpg)
 
+#### Cronologia e miracoli aggiunti
 
-### Come si chiama questa canzone con Siri
+Se Siri ti ha incantato, sappi che la sua memoria è lunga: ogni brano riconosciuto può esser richiamato dalla cronologia dell’app **Shazam**, così che nulla vada perduto. Oh, meraviglia moderna!
 
-Per i possessori di dispositivi **Apple**, come **iPhone**, **iPad** o **Mac**, Siri offre una funzione simile per il riconoscimento dei brani. Siri può identificare una canzone utilizzando **Shazam**, l’app di riconoscimento musicale integrata nei dispositivi Apple.
+---
 
-#### Come attivare Siri per il riconoscimento musicale
+### L’arte dell’identificare online: Aha-Music
 
-1. Attiva Siri pronunciando “**Hey Siri**” oppure tenendo premuto il pulsante laterale su iPhone o iPad.
-2. Chiedi “**Come si chiama questa canzone, Siri?**” o un comando simile.
-3. Siri inizierà ad ascoltare la traccia, mostrando una barra di ascolto con il simbolo di **Shazam**.
+Oh viandante del cyberspazio, ti presento il luogo chiamato **Aha-Music**, dove senza app né fronzoli puoi trovar risposta alla tua sete di conoscenza melodica.
 
-![siri canzone](/guide-img/output/ff907502.jpg)
+#### Come operare con Aha-Music?
 
-Dopo qualche secondo, Siri ti fornirà il titolo e l’artista della canzone identificata. Inoltre, pigiando sul risultato, verrai indirizzato alla pagina di **Apple Music** per ascoltare il brano o aggiungerlo alle tue playlist. Questa funzione è integrata nativamente su iPhone, iPad e Mac, il che la rende comoda e immediata per gli utenti Apple.
+1. Apri la [pagina ufficiale di Aha-Music](https://www.aha-music.com/identify-songs-music-recognition-online#record-div).
+2. Premi l’icona del microfono e concedi l’udito del tuo dispositivo.
+3. Invia le note desiderate al servizio e attendi il responso, che giunge rapido e sicuro.
 
-#### Ulteriori funzionalità di Siri e Shazam
+![Identificare musica con Aha-Music](/guide-img/output/aosta-3.jpg)
 
-Siri e Shazam insieme permettono di creare una cronologia delle canzoni riconosciute, accessibile direttamente dall’app Shazam. Questa funzione può rivelarsi utile per recuperare i titoli delle canzoni trovate in passato. Se desideri approfondire l’utilizzo di Siri, consulta la [guida completa su come usare Siri](https://www.aranzulla.it/come-usare-siri-30966.html).
+---
 
+### Shazam, il mago della musica
 
-### Come si chiama questa canzone online: Aha-Music
+Ah, ma non possiamo dimenticare **Shazam**, il nome che rimbomba come eco di leggenda tra i metodi di riconoscimento musicale. Nato per dominare, esso svela con rapidità titoli e autori.
 
-Se preferisci una soluzione online per il riconoscimento dei brani, **Aha-Music** è un servizio efficace e semplice da usare, ideale per chi non desidera installare app aggiuntive. Questo sito web ti permette di identificare le canzoni direttamente dal browser, rendendolo una scelta versatile e rapida.
+#### Come invocare Shazam?
 
-#### Come usare Aha-Music
+1. Scarica l’app dall’App Store o Play Store.
+2. Apri l’app, premi l’icona centrale e poni il tuo dispositivo vicino alla fonte musicale.
+3. Attendi che il cerchio magico si completi e il mistero sarà svelato.
 
-1. Accedi alla [pagina di Aha-Music](https://www.aha-music.com/identify-songs-music-recognition-online#record-div) utilizzando Chrome o un altro browser compatibile.
-2. Clicca sul **pulsante giallo del microfono** per avviare la registrazione e, se richiesto, autorizza l’accesso al microfono.
-3. Fai ascoltare il brano ad Aha-Music per qualche secondo, e il sito tenterà di riconoscere la canzone.
+![Interfaccia di Shazam](/guide-img/output/aosta-4.jpg)
 
-![aha music](/guide-img/output/80796b1b.jpg)
+E così, il viaggio termina con Shazam che ti guida nel regno della musica ritrovata. Non c’è brano troppo oscuro o melodia troppo distante per sfuggire al suo incantesimo.
 
-Aha-Music ascolta per circa 15 secondi prima di elaborare il risultato, ma puoi interrompere l’ascolto in qualsiasi momento e inviare subito il frammento registrato. Il responso include il titolo della canzone e l’artista, sufficienti per trovare ulteriori dettagli.
-
-Aha-Music è una scelta perfetta per chi preferisce un riconoscimento rapido, senza il bisogno di app, e funziona bene su qualsiasi dispositivo dotato di browser compatibile.
-
-
-### Shazam
-
-**Shazam** è uno dei servizi di riconoscimento musicale più avanzati e diffusi, apprezzato per la sua capacità di identificare rapidamente i brani anche in ambienti rumorosi. Disponibile per **Android**, **iOS/iPadOS** e **Mac**, Shazam utilizza un algoritmo sofisticato in grado di analizzare l’audio e riconoscere quasi ogni brano in pochi istanti.
-
-#### Come utilizzare Shazam per riconoscere una canzone
-
-1. Scarica Shazam dal [Google Play Store](https://play.google.com/store/apps/details?id=com.shazam.android) per Android o dall’[App Store](https://apps.apple.com/it/app/shazam/id284993459?mt=8) per iOS.
-2. Avvia l’app e concedi i permessi necessari per l’accesso al microfono.
-3. Premi il logo di Shazam e avvicina il dispositivo alla fonte sonora.
-
-![shazam android](/guide-img/output/bda94a5b.jpg)
-
-In pochi secondi, Shazam mostrerà il titolo della canzone, l’artista e informazioni aggiuntive, come il testo e la biografia dell’artista. Una volta trovata la canzone, Shazam ti offre anche link diretti per ascoltarla su piattaforme come **Apple Music** o **Spotify**, permettendoti di aggiungere immediatamente il brano alla tua libreria.
-
-#### Funzionalità aggiuntive di Shazam
-
-- **Testo della canzone**: Shazam ti permette di visualizzare il testo del brano in tempo reale (se disponibile), sincronizzandosi con la musica in riproduzione.
-- **Condivisione dei brani**: Puoi condividere i brani trovati tramite altre app di messaggistica o social network.
-- **Libreria sincronizzata**: Registrandoti su Shazam, puoi salvare i brani trovati e sincronizzarli su diversi dispositivi. Questo è utile per non perdere le canzoni riconosciute, soprattutto in caso di cambio telefono.
-
-Shazam crea una cronologia personale, accessibile dalla sezione **Libreria** dell’app. Puoi anche sincronizzare la libreria Shazam con **Apple Music** o **Spotify**, così da avere sempre a disposizione i brani scoperti.
-
-Per ulteriori dettagli su Shazam e le sue funzionalità avanzate, visita la guida dedicata su [come funziona Shazam](https://www.aranzulla.it/come-funziona-shazam-864019.html).
-
+---
 
 ### Conclusione
 
-Grazie alle moderne tecnologie, riconoscere una canzone è diventato più facile e accessibile che mai. Tra Google Assistant, Siri, Aha-Music e Shazam, hai a disposizione una varietà di strumenti per rispondere alla tua domanda “come si chiama questa canzone?”. Ogni strumento ha i suoi vantaggi, ma tutti offrono una soluzione rapida e precisa.
-
-La prossima volta che ascolti un brano che ti colpisce, prova uno di questi strumenti per scoprire subito titolo e artista. Buon ascolto e buon divertimento con la tua musica preferita!
+Nel vasto universo della musica, ogni canzone attende solo d’essere riconosciuta. Che sia Google, Siri, Aha-Music o il prodigioso Shazam, hai ora i mezzi per conquistar quel frammento di melodia che ti sfugge. Affidati alla tecnologia, caro amico, e trasforma il tuo stupore in conoscenza!

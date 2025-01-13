@@ -2,117 +2,97 @@
 slug: /come-riattivare-il-microfono
 ---
 
+# Ove si narra dell'antica arte del microfono e del suo risveglio
 
-# Guida per riattivare il microfono
+Immagina, o lettore, d’esser caduto nell’oscura calamità di aver muto il tuo microfono. Come il cantore privato della voce, così tu, in codeste terre virtuali, non puoi far udire il tuo verbo. Non temere, ché di seguito io t’instruirò, onde tu possa redimerti e ridar fiato all’arte tua. 
 
-Hai accidentalmente disattivato il microfono sul tuo dispositivo, e ora, durante le chiamate o le videochiamate, nessuno riesce a sentirti? Questo problema può essere davvero fastidioso, ma non preoccuparti: in questa guida vedremo insieme come riattivare il microfono, sia su PC sia nelle principali applicazioni di messaggistica e videoconferenza su smartphone e tablet.
+Sia il tuo strumento un marchingegno portabile o una nobile macchina fissa, i modi per il risveglio del microfono ti parran chiari come il sole mattutino. Armati dunque di pazienza e segui codesti comandamenti.
 
-Indipendentemente dal dispositivo o dall'applicazione che utilizzi, i passaggi per riattivare il microfono sono abbastanza semplici. Ti consiglio di ritagliarti cinque minuti per leggere attentamente e seguire i suggerimenti che troverai qui di seguito. Vedrai, in poco tempo riuscirai a ripristinare il funzionamento del microfono!
+## Come destare il microfono nel magico calcolatore
 
-## Come riattivare il microfono sul PC
+Il calcolatore, magico scrigno del sapere e delle connessioni, custodisce segreti per attivare l’udito artificiale. Di seguito scoprirai il verbo per ogni sistema.
 
-Se hai disattivato il microfono sul computer, puoi facilmente riattivarlo tramite le Impostazioni di sistema, sia su Windows che su macOS. Ecco come fare.
-
-### Windows 11
+### Il dominio di Windows 11
 
 ![microfono windows 11](/guide-img/output/ac0f7e82.jpg)
 
-Se stai utilizzando un computer con Windows 11 e vuoi riattivare il microfono, segui questi passaggi:
+Se il tuo strumento poggia sul regno di Windows 11, questi passi sacri seguirai:
 
-1. **Clic destro sulla bandiera di Windows** nella barra in basso e seleziona la voce **Impostazioni**.
-2. Nel menu laterale sinistro, seleziona **Sistema**, poi **Audio**.
-3. Scorri verso il basso fino alla sezione **Input**. Se viene visualizzato **Nessun dispositivo di input trovato**, significa che il microfono è disattivato.
-4. Se il microfono è presente ma non funziona, prova a regolare il **livello del volume**: assicurati che il cursore non sia sullo zero ma impostato a un livello adeguato.
+1. **Schiaccia con maestria** l’effigie della bandiera sul fondo, ove il tempo riposa, e scegli le **Impostazioni**.
+2. Addentrati nel **Sistema**, quindi nel **Regno dell’Audio**.
+3. Se al tuo occhio appare la nefasta scritta **Nessun dispositivo di input trovato**, allora giaci nel buio del silenzio. Riconnettiti col tuo microfono o destalo con il tocco magico della configurazione.
 
-Se il microfono non viene rilevato, vai in **Avanzate > Tutti i dispositivi audio** e seleziona il microfono dalla lista sotto **Dispositivi di input**. Qui, clicca su **Consenti** per riattivarlo.
+Tocca il pulsante **Avanzate** e consulta il registro dei dispositivi dormienti. Sotto la voce **Dispositivi di input**, seleziona il tuo e invoca il comando **Consenti** per ridar vita al tuo compagno d’ascolto.
 
-Per verificare che il microfono sia funzionante, clicca su **Inizia test** e prova a parlare: se la barra del volume si muove, significa che è attivo. Se non riesci a risolvere il problema, potrebbe esserci un guasto hardware nel microfono.
-
-### Windows 10
+### Il regno di Windows 10
 
 ![microfono windows 10](/guide-img/output/28b6e101.jpg)
 
-Per riattivare il microfono su Windows 10:
+Nel dominio del più antico Windows 10, l’arte è simile, ma i rituali differiscono leggermente:
 
-1. Premi sul pulsante **Start** e seleziona **Impostazioni** (icona dell’ingranaggio).
-2. Vai su **Sistema > Audio**. Se sotto la dicitura **Input** appare "Nessun dispositivo di input trovato", il microfono è disattivato.
-3. Clicca su **Gestisci dispositivi audio** e seleziona **Microfono**. Premi quindi su **Abilita** per riattivarlo.
+1. Dirigiti alla casa del **Start**, ove giace l’icona dell’ingranaggio.
+2. Scopri la via verso il **Sistema**, quindi entra nella terra dell’**Audio**.
+3. Nell’ombra dei dispositivi, fai risvegliare il tuo microfono dormiente, attivandolo come un tempo i maghi ridestavano gli spiriti.
 
-Per testare il microfono, assicurati che la barra accanto a **Prova il microfono** si illumini durante i suoni. Se non funziona, prova a risolvere eventuali problemi tramite la sezione **Risoluzione dei problemi** nelle Impostazioni.
-
-### macOS
+### Il mistico mondo di macOS
 
 ![microfono mac](/guide-img/output/eebec5f1.jpg)
 
-Se utilizzi un Mac e riscontri problemi con il microfono:
+Ah, il reame della Mela, ove ogni movimento è poesia! In questo paradiso digitale, segui le vie antiche:
 
-1. Clicca sull’**icona della mela** in alto a sinistra e seleziona **Impostazioni di Sistema**.
-2. Vai su **Suono > Ingresso** e seleziona il microfono che utilizzi.
-3. Regola il **Volume di ingresso** spostando il cursore, assicurandoti che non sia impostato su zero.
+1. Cerca l’icona della Mela e accedi alle **Impostazioni di Sistema**.
+2. Trova il santuario del **Suono**, quindi discendi nell’abisso dell’**Ingresso**.
+3. Scivola il cursore per alzare la voce del microfono e osserva la barra del **Livello di ingresso**: se questa danza al suono, sei salvo.
 
-Per testarlo, emetti un suono e controlla la barra accanto a **Livello di ingresso**: se si illumina, significa che il microfono è attivo. In caso contrario, considera un test con un altro microfono per verificare eventuali problemi hardware.
+## Il risveglio del microfono nelle applicazioni
 
-## Come riattivare il microfono nelle app
+Ahimè, talvolta il silenzio risiede non nella macchina, ma nelle applicazioni che ospitano il tuo spirito digitale. Sia su calcolatore o strumento portatile, i metodi qui narrati ti guideranno.
 
-Se hai disattivato il microfono in un'applicazione, sia essa installata su PC o su smartphone, puoi risolvere rapidamente seguendo alcuni semplici passaggi. Vediamo le procedure specifiche per le app più comuni.
-
-### Come riattivare il microfono su Zoom
+### Zoom: risveglio nelle riunioni eteree
 
 ![microfono zoom](/guide-img/output/71f114c8.jpg)
 
-Per abilitare il microfono su Zoom su Windows:
+Zoom, portale d’incontri virtuali, talvolta soffoca la voce. Segui queste vie per riaprirlo:
 
-1. Vai in **Impostazioni > Privacy e sicurezza > Microfono** e attiva l’opzione **Consenti alle app desktop di accedere al microfono**.
-2. Assicurati che la voce **Zoom** sia attivata nell’elenco delle app autorizzate.
+1. Accedi alle **Impostazioni di Privacy** e cerca la voce **Microfono**. Assicurati che Zoom sia accolto nel novero degli eletti.
+2. Sia su **Mac**, sia su **Android** o **iOS**, verifica che il microfono sia concesso all’applicazione, altrimenti sarà come cantare in un deserto senza orecchie.
 
-Su Mac, accedi a **Impostazioni di Sistema > Privacy e sicurezza > Microfono** e seleziona Zoom nell’elenco.
-
-Su **Android** e **iOS**, puoi abilitare il microfono andando su **Impostazioni > App > Zoom > Autorizzazioni** (su Android) o **Impostazioni > Zoom** (su iOS) e attivando l'opzione Microfono.
-
-### Come riattivare il microfono su Teams
+### Teams: il risveglio nel collettivo digitale
 
 ![microfono teams](/guide-img/output/4f6d0f10.jpg)
 
-Se utilizzi Teams e il microfono non funziona:
+In Teams, la tua voce giace muta? Rianimala così:
 
-1. Su Windows, vai in **Impostazioni > Privacy e sicurezza > Microfono** e cerca **Microsoft Teams** nell’elenco delle app.
-2. Sposta la levetta accanto a Teams su **Attivato**.
+1. **Su Windows**, raggiungi le impostazioni di **Privacy e sicurezza**, ove troverai Teams tra i supplicanti.
+2. Anche qui, verifica le autorizzazioni nelle piattaforme mobili o su Mac. Il rito è simile a quello di Zoom.
 
-Su **Mac**, la procedura è identica, mentre su **Android** e **iOS** segui le istruzioni fornite per Zoom, attivando Teams nelle autorizzazioni del microfono.
-
-### Come riattivare il microfono su Meet
+### Meet: risonanze nel regno di Google
 
 ![meet](/guide-img/output/77302c7c.jpg)
 
-Se su Google Meet il microfono risulta disattivato, controlla le autorizzazioni del browser:
+Meet, la sala del consiglio virtuale, richiede il consenso del browser per il suo rito. Ecco come:
 
-1. Su **Chrome**, clicca sull’icona a sinistra dell’URL e attiva **Microfono**.
-2. Su **Safari**, vai su **Safari > Impostazioni per [nome sito] > Microfono** e seleziona **Consenti**.
+1. In **Chrome**, osserva l’icona accanto all’URL e accendi il tuo microfono.
+2. In **Safari**, entra nelle impostazioni specifiche per il sito e concedi il diritto d’udire.
 
-Su **Android** e **iOS**, abilita il microfono nelle impostazioni dell'app Meet, proprio come indicato per Zoom.
-
-### Come riattivare il microfono su WhatsApp
+### WhatsApp: voci lontane
 
 ![microfono wa](/guide-img/output/760164cf.jpg)
 
-Su WhatsApp, per riattivare il microfono:
+WhatsApp, messaggero globale, ha il suo rito particolare:
 
-1. Su Windows, vai su **Start > Impostazioni > Privacy e sicurezza > Microfono** e attiva l’opzione per WhatsApp.
-2. Su Mac, segui **Impostazioni di Sistema > Sicurezza e Privacy > Microfono** e seleziona WhatsApp.
+1. Su **Windows**, dirigiti alle **Impostazioni di Privacy** e consenti al microfono di essere usato.
+2. Su **Mac**, il procedimento è simile, mentre nelle versioni mobili, controlla che l’app abbia il permesso di accedere alla tua voce.
 
-Per **WhatsApp Web**, durante l’accesso dal browser, consenti l’uso del microfono cliccando su **Consenti** nell’avviso del browser.
-
-### Come riattivare il microfono su Discord
+### Discord: echi nei reami digitali
 
 ![discord](/guide-img/output/dd19d17b.jpg)
 
-Per attivare il microfono su Discord:
+Discord, luogo d’infinite discussioni, a volte cela il microfono. Per risvegliare il suono:
 
-1. Su **Windows (browser)**, segui le indicazioni viste per Meet su Chrome.
-2. Se usi l’app desktop, vai su **Impostazioni > Privacy e sicurezza > Microfono** e attiva **Discord**.
+1. Su browser, segui le istruzioni per Meet.
+2. Su app, controlla nelle **Impostazioni di Sistema** del tuo dispositivo.
 
-Su **Mac**, apri **Safari > Impostazioni per discord.com > Microfono > Consenti**. Per l’app desktop, vai su **Impostazioni di Sistema > Privacy e sicurezza > Microfono** e seleziona Discord.
+## Conclusione: ritrova la tua voce
 
-Per **Android** e **iOS**, abilita il microfono seguendo le istruzioni per Zoom o Teams, attivando Discord tra le app autorizzate.
-
-Con queste indicazioni dovresti riuscire a risolvere i problemi del microfono in pochi minuti. Assicurati di verificare che il microfono sia ben connesso e funzionante per evitare problemi futuri, e buon lavoro con le tue comunicazioni!
+Ecco, ora hai appreso i segreti antichi e moderni per destare il tuo microfono. Non lasciare che il silenzio domini le tue comunicazioni. Segui i passi narrati, e la tua voce risuonerà di nuovo tra le sfere digitali! 

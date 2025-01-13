@@ -1,48 +1,44 @@
 ---
 slug: /come-esportare-contatti-da-gmail
 ---
-# Come Esportare Contatti da Gmail
+# L’Arte Arcana dell’Esportare Contatti da Gmail
 
-Hai mai avuto l'impressione di essere legato mani e piedi alla tua rubrica di Gmail? Forse stai pensando di trasferirti su un'altra piattaforma di posta elettronica, oppure vuoi semplicemente tenere un backup dei tuoi preziosi contatti, perché diciamocelo, non è mai una cattiva idea avere un piano B. La buona notizia è che esportare i contatti da Gmail è molto più semplice di quanto sembri e, con un po' di pazienza e la giusta guida, potrai farlo in pochi minuti. Non serve un corso intensivo di informatica, e nemmeno una laurea in scienze del computer. No, no, qui basta seguire alcuni passaggi semplici e dritti al punto. E se sei arrivato fin qui, hai già fatto metà del lavoro!
+O avventuriero dei lidi digitali, qual ventura ti conduce a intraprendere questa strada tortuosa? Forse è il bisogno di custodire in altro luogo i preziosi nomi e indirizzi che nel tempo hai raccolto, oppure il desiderio d’abbandonare Gmail, come chi lascia una patria ormai straniera per terre inesplorate. Quale che sia il tuo motivo, sappi che questa guida è un faro nella notte della tua incertezza, un compagno fedele in un mondo di algoritmi e menù a discesa.
 
-## Perché Esportare i Contatti? Un Piccolo Ripasso
+Preparati, dunque, a varcare la soglia del sapere. E ricorda, il cammino non è per i deboli di spirito: qui si richiede pazienza, dedizione e un pizzico d’ingegno. Ma non temere, perché ogni passo verrà rivelato in modo che anche il più inesperto dei naviganti possa comprendere e agire.
 
-Prima di entrare nel cuore della procedura, potresti chiederti: ma perché dovrei esportare i miei contatti? Beh, immagina di voler passare a un altro provider di posta elettronica perché, non so, hai deciso che Gmail è troppo anni '90 per te (anche se tecnicamente è dei primi 2000, ma lasciamo stare). O magari vuoi semplicemente avere una copia dei tuoi contatti per dormire sonni tranquilli. E poi, non dimentichiamo che la tecnologia, per quanto fantastica, non è infallibile. Una piccola interruzione, un glitch improvviso, e addio ai contatti!
+## Quali Sorti Ci Conducono a Quest’Opera?
 
-## Esportare i Contatti da Gmail via Web: Procedura Completa
+Prima di addentrarci nei segreti dell’arte, fermiamoci un momento a riflettere. Perché mai un uomo, o una donna, dovrebbe cimentarsi nell’esportare i propri contatti da Gmail? Non basta, forse, che essi dimorino nella loro dimora digitale, protetti da Google stesso? Ebbene, le risposte sono molteplici.
 
-La versione web di Gmail è il punto di partenza ideale per chiunque desideri esportare i propri contatti. Per iniziare, accedi alla [pagina dei contatti di Google](https://contacts.google.com) e, se necessario, effettua l'accesso al tuo account. Sembra banale, ma non sottovalutare la potenza del passo iniziale!
+Può accadere che tu voglia cambiare dimora digitale, spostarti verso nuovi lidi di posta elettronica, magari per sperimentare un servizio più adatto ai tuoi bisogni. Oppure, il pensiero del disastro improvviso – una falla nel sistema, un account smarrito – ti spinge a creare una copia dei tuoi contatti per custodirli in un luogo sicuro. Infine, vi è il semplice desiderio di avere il controllo sui propri dati, come un monarca che regge con fermezza lo scettro del proprio regno.
 
-Una volta entrato, ti troverai davanti a un vero e proprio mare di contatti. Sì, anche quelli che ti sei chiesto mille volte perché li hai salvati, tipo il numero del vecchio fabbro o la mail del tuo compagno di università che non senti da dieci anni. Ma torniamo a noi: per esportare, seleziona i contatti mettendo un segno di spunta accanto a ciascuno. Non c'è bisogno di selezionarli uno per uno come un collezionista di francobolli impazzito: puoi anche scegliere tutti i contatti in un colpo solo.
+Qualunque sia la ragione, il compito che ti attende è degno di nota e non va sottovalutato. Ma procediamo, ché il tempo è tiranno e il sapere è ampio.
 
-Il prossimo passo è individuare il pulsante dei tre puntini in alto a destra (sì, il famoso menu a pallini di Google, che contiene sempre qualche sorpresa). Cliccaci sopra e seleziona l'opzione **Esporta**. A questo punto, ti verrà chiesto di scegliere il formato del file: **CSV Google** per mantenerlo nello stile di casa, **CSV Outlook** se preferisci il mondo Microsoft, o **vCard** se il tuo cuore batte per iOS. Una volta scelto, clicca su **Esporta** e in pochi secondi avrai un file con tutti i tuoi contatti, pronto per essere trasferito o conservato come una preziosa reliquia digitale.
+---
 
-![Esportare contatti da Gmail Web](/guide-img/output/Yh7q5n0nL4bp1.jpg)
+![Raffigurazione antica dell'arte dei contatti](/guide-img/output/Yh7q5n0nL4bp1.jpg)
 
-### I Piccoli Trucchi del Mestiere
+---
 
-A questo punto, potresti chiederti: "E se volessi esportare solo un gruppo specifico di contatti, senza coinvolgere tutto il vicinato digitale?". Nessun problema, puoi farlo. Dalla barra laterale sinistra, trova la voce **Di più** e seleziona l’opzione **Esporta**. Qui puoi specificare quale gruppo di contatti esportare, evitando di includere la lista della spesa o il contatto del servizio taxi che non hai mai usato.
+## Dal Regno del Web: Esportare i Contatti tramite Navigatore
 
-## Esportare i Contatti da Gmail su Android: Più Facile di Così…
+Come un pellegrino che giunge alle porte di una grande città, il tuo primo passo è accedere alla [dimora dei contatti Google](https://contacts.google.com). In questa pagina, ogni nome, indirizzo e numero è raccolto con cura, come un archivio che racchiude memorie e connessioni.
 
-Gli utenti Android sono fortunati: esportare i contatti da un dispositivo mobile è un gioco da ragazzi, purché tu abbia l'app **Contatti** di Google. Questa app è spesso preinstallata sui dispositivi Android, ma se il tuo smartphone ha deciso di fare lo snob, puoi scaricarla dal [Play Store](https://play.google.com/store/apps/details?id=com.google.android.contacts).
+Effettua l’ingresso con le tue credenziali, e subito ti troverai davanti a una vasta distesa di contatti, alcuni familiari, altri dimenticati dal tempo. Vi saranno amici, parenti, colleghi, ma anche nomi che evocano ricordi confusi: il vecchio fabbro che aggiustò una porta scricchiolante, il compagno di scuola mai più rivisto. Questo è il tuo regno digitale, e ora è tempo di compiere la tua opera.
 
-Apri l'app e, sorpresa! Troverai una lista di contatti che probabilmente non ricordavi di avere. Clicca sull'icona dei tre puntini in alto a destra e seleziona **Seleziona tutto** se vuoi esportare tutto il pacchetto. Vuoi selezionare solo alcuni contatti? Nessun problema, fallo manualmente. Una volta scelti i contatti, premi sull’icona della condivisione (sì, quella che usi per mandare meme agli amici) e autorizza l'app a gestire i contatti. Ora puoi salvare i tuoi contatti come file CSV o vCard, inviandoli tramite email, salvandoli sul cloud o condividendoli con un'altra app.
+### Selezione: L’Antica Pratica del Discernere
 
-## Esportare Contatti su iOS: L’Arte dell’Equilibrio
+Ora, posa lo sguardo sulla moltitudine e scegli. Desideri esportare tutto, o solo una parte di questi contatti? Se la tua risposta è la prima, clicca sull’opzione per selezionare ogni nome e indirizzo in un colpo solo. Se invece preferisci essere selettivo, usa il segno di spunta accanto ai contatti desiderati. Non temere di sbagliare, perché ogni scelta può essere rivista prima del passo finale.
 
-Se utilizzi un iPhone, il processo è un po’ diverso. Apple e Google non sono proprio compagni di merende, quindi esportare contatti da Gmail su iOS richiede un po' di ingegno. Prima di tutto, sincronizza la tua rubrica di Gmail con l’app **Contatti** di iOS. Vai su **Impostazioni**, scorri fino a **Account e password** e aggiungi il tuo account Google. Dopo aver inserito le credenziali, accertati che la levetta accanto a **Contatti** sia attivata (spoiler: deve essere verde).
+Quando il tuo lavoro sarà compiuto, cerca il simbolo dei tre puntini sospesi in alto a destra. Questo menù è una porta verso nuove possibilità. Clicca su di esso, e vedrai comparire l’opzione **Esporta**. Scegli il formato che più si addice al tuo scopo: **CSV Google**, **CSV Outlook**, o **vCard**, ognuno con le sue particolarità. Fatta la tua scelta, premi il comando e lascia che la magia del sistema faccia il suo corso. In pochi istanti, un file contenente i tuoi contatti verrà generato e scaricato, pronto per essere custodito o trasferito.
 
-Una volta sincronizzati i contatti, apri l’app **Contatti** del tuo dispositivo. Voilà! Ora hai tutti i contatti Gmail pronti per essere esportati. Per farlo, utilizza un’app di terze parti come **My Contacts Backup**, che ti permette di creare file CSV o VCF con facilità e inviarli via email o salvarli sul cloud. Facile, no?
+---
 
-![Contatti iOS](/guide-img/output/Gmail-contatti-ios.jpg)
+![Illustrazione dei contatti su Android](/guide-img/output/Gmail-contatti-android.jpg)
 
-### Consiglio Bonus per iOS
+---
 
-Vuoi un piccolo consiglio da professionista? Dopo aver esportato i tuoi contatti, dai un’occhiata al file per assicurarti che tutti i dettagli siano presenti e corretti. A volte, soprattutto con app di terze parti, possono verificarsi piccole incongruenze o errori di formattazione. Meglio prevenire che curare!
+## Per gli Utenti del Regno Android: La Via del Palmo
 
-## Conclusioni: Preparati al Futuro
-
-Ora che hai imparato a esportare i tuoi contatti da Gmail, sei un passo avanti nel mantenere il controllo sui tuoi dati. Che tu voglia cambiare provider di posta elettronica, creare un backup o semplicemente trasferire i contatti su un nuovo dispositivo, sei pronto per affrontare qualsiasi sfida. E non dimenticare: un backup ben fatto è un amico per sempre.
-
-Quindi, la prossima volta che pensi "E se perdo tutti i miei contatti?", saprai esattamente cosa fare. Non aspettare che sia troppo tardi: agisci ora e goditi la serenità di sapere che i tuoi contatti sono al sicuro, pronti a seguirti ovunque tu vada. Buona esportazione e... non dimenticare di salvare sempre tutto due volte, perché non si sa mai!
+Se il tuo strumento di scelta è un dispositivo Android, il cammino si semplifica. Scarica, se non lo possiedi già, l’app **Contatti** di Google dal [Play Store](https://play.google.com/store/apps/details?id=com.google.android.contacts). Questo strumento è la chiave per aprire il forziere
