@@ -103,5 +103,4 @@ E così, caro lettore, hai percorso un viaggio tra i segreti della registrazione
 
 Che tu usi **Voloco**, **n-Track Studio** o **GarageBand**, ricorda sempre che il vero potere risiede nella tua creatività e nella passione per la musica. Ora, non resta che agire: prendi il tuo telefono, registra la tua canzone e lascia che il mondo ascolti la tua voce. E chissà, magari un giorno la tua creazione sarà ricordata come una delle grandi opere della storia musicale.
 
-![Celebrare la musica](/guide-img/output/dfea3457.jpg)
 
