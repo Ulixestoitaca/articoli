@@ -4,7 +4,7 @@ slug: /come-attivare-il-microfono-delle-cuffie
 
 # Onde spiegare l’attivazione del microfono nelle cuffie
 
-Nel mentre hai acquisto un novo apparato auricolare, con mirabile microfono incluso, e sei preparato all’appuntamento cruciale o al ludico passatempo online, un imprevisto appare: non si ode la tua voce attraverso il congegno. Né amici né compagni d’ufficio possono percepire il tuo eloquio. Non fremere, non adirarti: tal incomodo può scaturire non già da difetto delle cuffie, bensì da manchevoli configurazioni nel dispositivo. A tal guisa, con pazienza e sapienza, seguimi nel viaggio che di seguito si dispiega, affinché tu possa agevolmente attivare e ben configurare il microfono su PC Windows, Mac, cellulari Android, iPhone e console di divertimento. Sii accorto e otterrai l’effetto sperato.
+Nel mentre hai acquisto un nuovo apparato auricolare, con mirabile microfono incluso, e sei preparato all’appuntamento cruciale o al ludico passatempo online, un imprevisto appare: non si ode la tua voce attraverso il congegno. Né amici né compagni d’ufficio possono percepire il tuo eloquio. Non fremere, non adirarti: tal incomodo può scaturire non già da difetto delle cuffie, bensì da manchevoli configurazioni nel dispositivo. A tal guisa, con pazienza e sapienza, seguimi nel viaggio che di seguito si dispiega, affinché tu possa agevolmente attivare e ben configurare il microfono su PC Windows, Mac, cellulari Android, iPhone e console di divertimento. Sii accorto e otterrai l’effetto sperato.
 
 ![Microfono attivo su PC](/guide-img/output/qfCHy2yu0p01L.jpg)
 

@@ -18,9 +18,9 @@ Cosa dici? È proprio questo il tuo bramato sapere? Allora non indugiamo oltre. 
 
 Prima di inoltrarti nelle pieghe della procedura per **donar una melodia su iTunes**, giova ben conoscere i requisiti essenziali per condurre in porto tale compito.
 
-Primo tra tutti, il donatore e il ricevente devono esser cittadini dello stesso reame digitale: entrambi debbono possedere un [ID Apple](https://www.aranzulla.it/come-creare-un-id-apple-28505.html) registrato nel medesimo paese o regione. Per esempio, se abiti in Italia e vuoi far dono d'una canzone a un'amica residente entro i confini europei, tutto andrà per il meglio. Se invece l'oggetto del tuo dono risiede in terre lontane come le Americhe, ahimè, non vi sarà scambio possibile.
+Primo tra tutti, il donatore e il ricevente devono esser cittadini dello stesso reame digitale: entrambi debbono possedere un ID Apple registrato nel medesimo paese o regione. Per esempio, se abiti in Italia e vuoi far dono d'una canzone a un'amica residente entro i confini europei, tutto andrà per il meglio. Se invece l'oggetto del tuo dono risiede in terre lontane come le Americhe, ahimè, non vi sarà scambio possibile.
 
-Inoltre, al tuo ID Apple deve esser legato un mezzo di pagamento accettato ([carta di credito](https://www.aranzulla.it/come-pagare-con-carta-di-credito-online-1099137.html), [PayPal](https://www.aranzulla.it/pagare-con-paypal-917256.html) o [credito telefonico](https://www.aranzulla.it/come-pagare-con-il-credito-telefonico-1162640.html)). Alternativamente, potrai far uso del **credito Apple** derivante da un’[Apple Gift Card](https://www.aranzulla.it/come-utilizzare-itunes-card-35646.html).
+Inoltre, al tuo ID Apple deve esser legato un mezzo di pagamento accettato carta di credito, PayPal o credito telefonico. Alternativamente, potrai far uso del **credito Apple** derivante da un’Apple Gift Card.
 
 Per quanto riguarda gli strumenti necessari, puoi portare a termine l'impresa da un iPhone o un iPad, oppure da un computer Windows o un Mac. Avuta certezza di ciò, procediamo al fulcro della questione.
 
@@ -30,7 +30,7 @@ Per quanto riguarda gli strumenti necessari, puoi portare a termine l'impresa da
 
 ![Regalare canzone iTunes con iPhone](/guide-img/output/canzone-itunes-iphone-1.jpg)
 
-Se hai scelto di **regalare un brano iTunes usando un iPhone** (o [iPad](https://www.aranzulla.it/quale-ipad-comprare-894862.html)), sappi che il processo richiede pochi ma precisi passaggi. Eccoli:
+Se hai scelto di **regalare un brano iTunes usando un iPhone** (o iPad, sappi che il processo richiede pochi ma precisi passaggi. Eccoli:
 
 1. Accedi alle **Impostazioni**, toccando l'icona raffigurante una ruota d'ingranaggio.
 2. Nella schermata che si apre, seleziona il tuo nome e poi **Pagamento e spedizione**. Aggiungi un metodo di pagamento se ancora non l'hai fatto.
